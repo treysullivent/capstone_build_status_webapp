@@ -16,7 +16,7 @@ echo 'export CLASSPATH=$CLASSPATH:/usr/share/java/mysql-connector-java.jar' >> ~
 
 ln -s /var/www/html/ webroot 
 sudo mv webroot_static/* webroot/
-rm -r webroot_static/*
+rm -r webroot_static/
 
 #create database
 sudo mysql --defaults-extra-file=database/credentials/root.cnf < database/sql/create_db.sql
