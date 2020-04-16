@@ -12,3 +12,6 @@ To begin, we will want to start the node program that updates the json in webroo
 
 From here you will need to run the java program 'Driver' located in log_parser, with the file or folder of files that you would like parsed and added to the database.
 
+# Screenshots
+![Dark Mode](Images/snapshot.PNG)
+![Light Mode](Images/LightMode.PNG)
