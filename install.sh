@@ -20,3 +20,5 @@ rm -r webroot_static/
 
 #create database
 sudo mysql --defaults-extra-file=database/credentials/root.cnf < database/sql/create_db.sql
+
+sudo chmod 777 scripts/*.sh

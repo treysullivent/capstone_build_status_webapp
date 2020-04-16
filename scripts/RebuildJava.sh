@@ -1,5 +1,5 @@
 #!/bin/bash
 
 printf "Rebuilding Java code...\n"
-javac ~/parser/*.java
+javac ~/log_parser/*.java
 

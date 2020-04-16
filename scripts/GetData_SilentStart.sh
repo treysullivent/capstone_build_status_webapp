@@ -5,7 +5,7 @@ SHELL_PARENT="$(dirname "$(readlink -fm "$0")")"
 
 ./KillNodeFetcher.sh > /dev/null 2>&1
 
-cd ~/webroot
+cd ~/node_getdata
 printf "Starting Node program with pid="
 nohup node GetData.js >/dev/null 2>&1 &
 
