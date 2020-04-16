@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><START_TIME>Tue Aug 14 06:57:43 MDT 2018</START_TIME><TARGET_SERVERS>piggy-pink-lc11</TARGET_SERVERS><PCI_VERSION>18.1.4.279</PCI_VERSION><DATABASE_VERSION>18.1.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.294</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 14 07:22:49 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Aug 14 07:23:37 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RILEY piggy-pink-lc11</END_JOB_NAME><END_TIME>Tue Aug 14 07:25:57 MDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

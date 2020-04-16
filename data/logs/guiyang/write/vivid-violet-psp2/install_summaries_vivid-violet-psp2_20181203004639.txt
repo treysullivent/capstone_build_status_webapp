@@ -1,0 +1,30 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install MARTIN cotton-candy-wsp1</JOB_NAME><START_TIME>Sun Dec 02 21:22:16 EST 2018</START_TIME><TARGET_SERVERS>cotton-candy-wsp1</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.2.1.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.298</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install MARTIN cotton-candy-wsp1</END_JOB_NAME><END_TIME>Sun Dec 02 21:57:25 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MARTIN cotton-candy-wsp2</JOB_NAME><START_TIME>Sun Dec 02 21:22:16 EST 2018</START_TIME><TARGET_SERVERS>cotton-candy-wsp2</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.2.1.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.298</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install MARTIN cotton-candy-wsp2</END_JOB_NAME><END_TIME>Sun Dec 02 22:47:12 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><START_TIME>Sun Dec 02 23:37:03 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-psp2</TARGET_SERVERS><PCI_VERSION>18.2.1.298</PCI_VERSION><DATABASE_VERSION>18.2.1.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.312</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>ERROR</TYPE><TIME>Sun Dec 02 23:44:42 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Dec 03 00:00:05 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Dec 03 00:00:38 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Dec 03 00:02:26 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Dec 03 00:04:21 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Dec 03 00:04:54 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Dec 03 00:07:34 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MARTIN vivid-violet-psp2</END_JOB_NAME><END_TIME>Mon Dec 03 00:12:24 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</JOB_NAME><START_TIME>Sun Dec 02 23:37:03 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-dwpsp1</TARGET_SERVERS><PCI_VERSION>18.2.1.298</PCI_VERSION><DATABASE_VERSION>18.2.1.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.312</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Dec 03 00:18:56 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</END_JOB_NAME><END_TIME>Mon Dec 03 00:18:56 EST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</JOB_NAME><START_TIME>Mon Dec 03 00:38:01 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-dwpsp1</TARGET_SERVERS><PCI_VERSION>18.2.1.298</PCI_VERSION><DATABASE_VERSION>18.2.1.312</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.312</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Dec 03 00:38:06 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MARTIN vivid-violet-dwpsp1</END_JOB_NAME><END_TIME>Mon Dec 03 00:38:06 EST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

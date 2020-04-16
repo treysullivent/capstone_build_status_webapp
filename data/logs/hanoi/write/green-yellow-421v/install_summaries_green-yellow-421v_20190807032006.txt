@@ -1,0 +1,30 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><START_TIME>Tue Aug 06 11:12:39 EDT 2019</START_TIME><TARGET_SERVERS>yellow-green-p480</TARGET_SERVERS><PCI_VERSION>18.1.2.375</PCI_VERSION><DATABASE_VERSION>18.1.2.371</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.280</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 12:59:29 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SIMMONS yellow-green-p480</END_JOB_NAME><END_TIME>Tue Aug 06 12:59:30 EDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><START_TIME>Tue Aug 06 14:19:53 EDT 2019</START_TIME><TARGET_SERVERS>yellow-green-p480</TARGET_SERVERS><PCI_VERSION>18.1.2.375</PCI_VERSION><DATABASE_VERSION>18.1.2.371</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.280</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 14:24:49 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SIMMONS yellow-green-p480</END_JOB_NAME><END_TIME>Tue Aug 06 14:24:49 EDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><START_TIME>Tue Aug 06 16:27:49 EDT 2019</START_TIME><TARGET_SERVERS>yellow-green-p480</TARGET_SERVERS><PCI_VERSION>18.1.2.375</PCI_VERSION><DATABASE_VERSION>18.1.2.371</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.280</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 17:59:24 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 17:59:30 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 17:59:54 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 18:05:51 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 18:06:23 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 18:07:05 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 18:07:25 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 18:07:36 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SIMMONS yellow-green-p480</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Aug 06 18:08:47 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SIMMONS yellow-green-p480</END_JOB_NAME><END_TIME>Tue Aug 06 18:08:49 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,42 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download CARTer desert-sand-tst505</JOB_NAME><START_TIME>Fri Mar 09 08:58:26 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst505</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download CARTer desert-sand-tst505</END_JOB_NAME><END_TIME>Fri Mar 09 09:06:47 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><START_TIME>Fri Mar 09 09:07:53 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst505</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 09 09:12:25 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 09 09:12:32 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst505</END_JOB_NAME><END_TIME>Fri Mar 09 09:12:32 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><START_TIME>Fri Mar 09 09:22:45 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst505</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 09 09:23:32 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 09 09:49:52 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 09 09:55:53 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 09 09:56:57 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 09 09:57:52 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 09 09:58:18 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst505</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 09 09:59:54 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst505</END_JOB_NAME><END_TIME>Fri Mar 09 10:00:05 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst506</JOB_NAME><START_TIME>Fri Mar 09 09:22:46 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst506</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst506</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 09 10:03:48 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst506</END_JOB_NAME><END_TIME>Fri Mar 09 10:03:48 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst506</JOB_NAME><START_TIME>Fri Mar 09 10:06:00 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst506</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>6.3.1.370</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst506</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 09 10:24:05 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst506</END_JOB_NAME><END_TIME>Fri Mar 09 10:24:09 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst507</JOB_NAME><START_TIME>Fri Mar 09 10:06:01 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst507</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>6.3.1.370</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst507</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 09 10:27:42 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst507</END_JOB_NAME><END_TIME>Fri Mar 09 10:27:42 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CARTer desert-sand-tst507</JOB_NAME><START_TIME>Fri Mar 09 10:30:11 CST 2018</START_TIME><TARGET_SERVERS>desert-sand-tst507</TARGET_SERVERS><PCI_VERSION>6.3.1.350</PCI_VERSION><DATABASE_VERSION>6.3.1.370</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP>BANKOFAMERICA</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARTer desert-sand-tst507</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 09 10:48:00 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARTer desert-sand-tst507</END_JOB_NAME><END_TIME>Fri Mar 09 10:48:03 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

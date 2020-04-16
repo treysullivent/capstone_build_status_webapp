@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><START_TIME>Fri Apr 27 15:21:50 EDT 2018</START_TIME><TARGET_SERVERS>blush-pjm04d</TARGET_SERVERS><PCI_VERSION>6.3.2.322</PCI_VERSION><DATABASE_VERSION>6.3.2.322</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.2.323</PCI_INSTALL_VERSION><LICENSE_GROUP>MASTERCARD </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Apr 27 16:05:34 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Apr 27 16:06:38 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install COOK blush-pjm04d</END_JOB_NAME><END_TIME>Fri Apr 27 16:12:23 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

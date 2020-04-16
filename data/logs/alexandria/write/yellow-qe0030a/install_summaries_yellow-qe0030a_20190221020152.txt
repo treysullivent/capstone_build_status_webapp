@@ -1,0 +1,57 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download YOUNG yellow-qe0032b</JOB_NAME><START_TIME>Wed Feb 20 09:06:37 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0032b</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download YOUNG yellow-qe0032b</END_JOB_NAME><END_TIME>Wed Feb 20 09:12:39 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract YOUNG</JOB_NAME><START_TIME>Wed Feb 20 09:14:02 MST 2019</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><START_TIME>Wed Feb 20 09:37:07 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0032b</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 09:51:33 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Feb 20 13:39:01 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0032b</END_JOB_NAME><END_TIME>Wed Feb 20 13:39:01 MST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><START_TIME>Wed Feb 20 14:09:20 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0032b</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 15:02:37 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 15:14:45 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0032b</END_JOB_NAME><END_TIME>Wed Feb 20 15:18:04 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0031b</JOB_NAME><START_TIME>Wed Feb 20 14:09:20 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0031b</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 15:41:16 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031b</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 15:50:50 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 15:55:37 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0031b</END_JOB_NAME><END_TIME>Wed Feb 20 15:58:53 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0030b</JOB_NAME><START_TIME>Wed Feb 20 14:09:20 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0030b</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 16:12:13 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030b</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 16:21:54 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030b</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 16:26:48 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0030b</END_JOB_NAME><END_TIME>Wed Feb 20 16:30:07 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0032a</JOB_NAME><START_TIME>Wed Feb 20 14:09:20 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0032a</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 16:44:26 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032a</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 16:54:51 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0032a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 17:00:09 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0032a</END_JOB_NAME><END_TIME>Wed Feb 20 17:03:56 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0031a</JOB_NAME><START_TIME>Wed Feb 20 14:09:21 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0031a</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 17:18:30 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031a</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 17:29:15 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0031a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 17:34:02 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0031a</END_JOB_NAME><END_TIME>Wed Feb 20 17:37:18 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install YOUNG yellow-qe0030a</JOB_NAME><START_TIME>Wed Feb 20 14:09:21 MST 2019</START_TIME><TARGET_SERVERS>yellow-qe0030a</TARGET_SERVERS><PCI_VERSION>18.1.5.336</PCI_VERSION><DATABASE_VERSION>18.1.5.336</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>BERKSHIRE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 17:50:17 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030a</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Feb 20 17:58:32 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install YOUNG yellow-qe0030a</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Feb 20 18:03:19 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install YOUNG yellow-qe0030a</END_JOB_NAME><END_TIME>Wed Feb 20 18:06:18 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

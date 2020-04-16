@@ -1,0 +1,27 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download RUSSELL turquoise-blue-1</JOB_NAME><START_TIME>Wed Jul 10 12:03:08 CDT 2019</START_TIME><TARGET_SERVERS>turquoise-blue-1</TARGET_SERVERS><PCI_VERSION>6.3.4.279</PCI_VERSION><DATABASE_VERSION>6.3.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download RUSSELL turquoise-blue-1</END_JOB_NAME><END_TIME>Wed Jul 10 12:32:48 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract RUSSELL</JOB_NAME><START_TIME>Wed Jul 10 12:48:45 CDT 2019</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>6.3.4.279</PCI_VERSION><DATABASE_VERSION>6.3.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><START_TIME>Wed Jul 10 14:02:06 CDT 2019</START_TIME><TARGET_SERVERS>turquoise-blue-1</TARGET_SERVERS><PCI_VERSION>6.3.4.279</PCI_VERSION><DATABASE_VERSION>6.3.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Jul 10 14:02:21 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL turquoise-blue-1</END_JOB_NAME><END_TIME>Wed Jul 10 14:02:21 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><START_TIME>Wed Jul 10 14:12:07 CDT 2019</START_TIME><TARGET_SERVERS>turquoise-blue-1</TARGET_SERVERS><PCI_VERSION>6.3.4.279</PCI_VERSION><DATABASE_VERSION>6.3.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jul 10 14:54:24 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jul 10 14:54:33 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jul 10 14:55:49 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jul 10 14:56:33 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 10 14:57:14 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL turquoise-blue-1</END_JOB_NAME><END_TIME>Wed Jul 10 15:03:52 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL turquoise-blue-2</JOB_NAME><START_TIME>Wed Jul 10 14:12:08 CDT 2019</START_TIME><TARGET_SERVERS>turquoise-blue-2</TARGET_SERVERS><PCI_VERSION>6.3.4.279</PCI_VERSION><DATABASE_VERSION>6.3.4.279</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-2</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 10 15:05:30 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL turquoise-blue-2</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 10 15:29:14 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL turquoise-blue-2</END_JOB_NAME><END_TIME>Wed Jul 10 15:35:18 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

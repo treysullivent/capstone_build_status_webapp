@@ -1,0 +1,32 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><START_TIME>Fri Jun 07 09:10:56 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8773</TARGET_SERVERS><PCI_VERSION>19.1.2.275</PCI_VERSION><DATABASE_VERSION>19.1.2.275</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:28:22 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:28:56 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:29:04 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:29:11 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:29:27 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:30:36 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:30:43 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jun 07 09:35:18 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</END_JOB_NAME><END_TIME>Fri Jun 07 09:38:20 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><START_TIME>Fri Jun 07 09:10:56 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8772</TARGET_SERVERS><PCI_VERSION>19.1.2.275</PCI_VERSION><DATABASE_VERSION>19.1.2.275</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jun 07 09:58:05 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 09:58:06 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</END_JOB_NAME><END_TIME>Fri Jun 07 09:58:07 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><START_TIME>Fri Jun 07 09:10:56 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8771</TARGET_SERVERS><PCI_VERSION>19.1.2.275</PCI_VERSION><DATABASE_VERSION>19.1.2.275</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jun 07 10:19:40 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 07 10:19:41 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</END_JOB_NAME><END_TIME>Fri Jun 07 10:19:42 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

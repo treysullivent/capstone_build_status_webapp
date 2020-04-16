@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install ADAMS magic-mint-1-s-07219</JOB_NAME><START_TIME>Thu Oct 04 14:41:44 CDT 2018</START_TIME><TARGET_SERVERS>magic-mint-1-s-07219</TARGET_SERVERS><PCI_VERSION>18.1.2.294</PCI_VERSION><DATABASE_VERSION>18.1.4.300</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.300</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ADAMS magic-mint-1-s-07219</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Oct 04 15:01:45 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ADAMS magic-mint-1-s-07219</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Oct 04 15:02:35 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ADAMS magic-mint-1-s-07219</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 04 15:04:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ADAMS magic-mint-1-s-07219</END_JOB_NAME><END_TIME>Thu Oct 04 15:04:12 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ADAMS magic-mint-1-s-07218</JOB_NAME><START_TIME>Thu Oct 04 14:41:44 CDT 2018</START_TIME><TARGET_SERVERS>magic-mint-1-s-07218</TARGET_SERVERS><PCI_VERSION>18.1.2.294</PCI_VERSION><DATABASE_VERSION>18.1.4.300</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.300</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ADAMS magic-mint-1-s-07218</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 04 15:26:58 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ADAMS magic-mint-1-s-07218</END_JOB_NAME><END_TIME>Thu Oct 04 15:26:59 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ADAMS magic-mint-1-s-07217</JOB_NAME><START_TIME>Thu Oct 04 14:41:44 CDT 2018</START_TIME><TARGET_SERVERS>magic-mint-1-s-07217</TARGET_SERVERS><PCI_VERSION>18.1.2.294</PCI_VERSION><DATABASE_VERSION>18.1.4.300</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.300</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ADAMS magic-mint-1-s-07217</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 04 15:52:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ADAMS magic-mint-1-s-07217</END_JOB_NAME><END_TIME>Thu Oct 04 15:53:01 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

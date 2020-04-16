@@ -1,0 +1,27 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install CAMPBELL periwinkle-lc11</JOB_NAME><START_TIME>Thu Apr 26 10:22:43 MDT 2018</START_TIME><TARGET_SERVERS>periwinkle-lc11</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.18</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install SCHMIDT steel-blue-lc11</JOB_NAME><START_TIME>Thu Apr 26 10:22:58 MDT 2018</START_TIME><TARGET_SERVERS>steel-blue-lc11</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.18</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CAMPBELL periwinkle-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:30:35 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SCHMIDT steel-blue-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Apr 26 10:41:56 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SCHMIDT steel-blue-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:42:44 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CAMPBELL periwinkle-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:43:03 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SCHMIDT steel-blue-lc11</END_JOB_NAME><END_TIME>Thu Apr 26 10:44:47 MDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install SCHMIDT steel-blue-lc12</JOB_NAME><START_TIME>Thu Apr 26 10:22:58 MDT 2018</START_TIME><TARGET_SERVERS>steel-blue-lc12</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.18</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install CAMPBELL periwinkle-lc11</END_JOB_NAME><END_TIME>Thu Apr 26 10:45:11 MDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CAMPBELL periwinkle-lc12</JOB_NAME><START_TIME>Thu Apr 26 10:22:44 MDT 2018</START_TIME><TARGET_SERVERS>periwinkle-lc12</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.18</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install SCHMIDT steel-blue-lc12</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:48:07 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CAMPBELL periwinkle-lc12</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:57:03 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install SCHMIDT steel-blue-lc12</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 10:57:06 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SCHMIDT steel-blue-lc12</END_JOB_NAME><END_TIME>Thu Apr 26 10:59:10 MDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_END><END_JOB_NAME>GM Install CAMPBELL periwinkle-lc12</END_JOB_NAME><END_TIME>Thu Apr 26 10:59:19 MDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CAMPBELL periwinkle-lc13</JOB_NAME><START_TIME>Thu Apr 26 10:22:44 MDT 2018</START_TIME><TARGET_SERVERS>periwinkle-lc13</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.18</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CAMPBELL periwinkle-lc13</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Apr 26 11:16:31 MDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+</SUMMARIES>

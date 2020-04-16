@@ -1,0 +1,42 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><START_TIME>Wed Sep 05 07:41:38 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx03</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>6.3.5.316</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 07:49:37 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Sep 05 07:55:36 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx03</END_JOB_NAME><END_TIME>Wed Sep 05 07:55:36 PDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><START_TIME>Wed Sep 05 08:25:19 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx03</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>6.3.5.316</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx03</END_JOB_NAME><END_TIME>Wed Sep 05 08:52:14 PDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><START_TIME>Wed Sep 05 08:58:07 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx03</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>6.3.5.316</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 09:27:45 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx03</END_JOB_NAME><END_TIME>Wed Sep 05 09:31:12 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><START_TIME>Wed Sep 05 08:58:07 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx06</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>6.3.5.316</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 09:52:52 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 10:05:01 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx06</END_JOB_NAME><END_TIME>Wed Sep 05 10:08:28 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><START_TIME>Wed Sep 05 08:58:08 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx04</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>6.3.5.316</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 10:22:32 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Sep 05 10:22:32 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx04</END_JOB_NAME><END_TIME>Wed Sep 05 10:22:32 PDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><START_TIME>Wed Sep 05 10:32:51 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx04</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>18.1.5.281</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 10:33:06 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Sep 05 10:33:06 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx04</END_JOB_NAME><END_TIME>Wed Sep 05 10:33:06 PDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><START_TIME>Wed Sep 05 10:36:51 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx04</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>18.1.5.281</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 10:50:10 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx04</END_JOB_NAME><END_TIME>Wed Sep 05 10:53:29 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><START_TIME>Wed Sep 05 10:36:52 PDT 2018</START_TIME><TARGET_SERVERS>manatee-rx02</TARGET_SERVERS><PCI_VERSION>6.3.5.316</PCI_VERSION><DATABASE_VERSION>18.1.5.281</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.281</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 10:59:46 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Sep 05 11:11:34 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx02</END_JOB_NAME><END_TIME>Wed Sep 05 11:14:56 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

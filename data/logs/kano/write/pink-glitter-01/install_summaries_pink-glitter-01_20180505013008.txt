@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install JAMES pink-glitter-01</JOB_NAME><START_TIME>Fri May 04 06:09:12 CDT 2018</START_TIME><TARGET_SERVERS>pink-glitter-01</TARGET_SERVERS><PCI_VERSION>18.1.1.23</PCI_VERSION><DATABASE_VERSION>6.3.1.370</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.23</PCI_INSTALL_VERSION><LICENSE_GROUP>HONEYWELL </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAMES pink-glitter-01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri May 04 06:24:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAMES pink-glitter-01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 04 06:26:13 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAMES pink-glitter-01</END_JOB_NAME><END_TIME>Fri May 04 06:28:47 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

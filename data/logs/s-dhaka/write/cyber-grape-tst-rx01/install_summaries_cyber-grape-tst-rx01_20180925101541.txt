@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx03</JOB_NAME><START_TIME>Tue Sep 25 05:52:17 MST 2018</START_TIME><TARGET_SERVERS>cyber-grape-tst-rx03</TARGET_SERVERS><PCI_VERSION>18.1.5.267</PCI_VERSION><DATABASE_VERSION>18.1.5.296</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.296</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Sep 25 06:04:05 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx03</END_JOB_NAME><END_TIME>Tue Sep 25 06:04:07 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</JOB_NAME><START_TIME>Tue Sep 25 05:52:18 MST 2018</START_TIME><TARGET_SERVERS>cyber-grape-tst-rx04</TARGET_SERVERS><PCI_VERSION>18.1.5.267</PCI_VERSION><DATABASE_VERSION>18.1.5.296</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.296</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Sep 25 06:16:48 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Sep 25 06:36:49 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</END_JOB_NAME><END_TIME>Tue Sep 25 06:36:49 MST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</JOB_NAME><START_TIME>Tue Sep 25 10:02:57 MST 2018</START_TIME><TARGET_SERVERS>cyber-grape-tst-rx04</TARGET_SERVERS><PCI_VERSION>18.1.5.267</PCI_VERSION><DATABASE_VERSION>18.1.5.296</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.296</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Sep 25 10:15:12 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL cyber-grape-tst-rx04</END_JOB_NAME><END_TIME>Tue Sep 25 10:15:14 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

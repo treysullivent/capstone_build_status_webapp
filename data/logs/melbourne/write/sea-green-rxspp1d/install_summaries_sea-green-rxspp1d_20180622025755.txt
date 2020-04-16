@@ -1,0 +1,14 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install MILLER sea-green-rxspp1q</JOB_NAME><START_TIME>Thu Jun 21 14:17:15 CDT 2018</START_TIME><TARGET_SERVERS>sea-green-rxspp1q</TARGET_SERVERS><PCI_VERSION>6.3.4.281</PCI_VERSION><DATABASE_VERSION>6.3.4.281</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.274</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MILLER sea-green-rxspp1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jun 21 14:41:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MILLER sea-green-rxspp1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jun 21 14:41:04 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MILLER sea-green-rxspp1q</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jun 21 14:47:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MILLER sea-green-rxspp1q</END_JOB_NAME><END_TIME>Thu Jun 21 14:51:52 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MILLER sea-green-rxspp2q</JOB_NAME><START_TIME>Thu Jun 21 14:17:15 CDT 2018</START_TIME><TARGET_SERVERS>sea-green-rxspp2q</TARGET_SERVERS><PCI_VERSION>6.3.4.281</PCI_VERSION><DATABASE_VERSION>6.3.4.281</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.274</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MILLER sea-green-rxspp2q</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jun 21 15:16:32 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MILLER sea-green-rxspp2q</END_JOB_NAME><END_TIME>Thu Jun 21 15:20:15 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

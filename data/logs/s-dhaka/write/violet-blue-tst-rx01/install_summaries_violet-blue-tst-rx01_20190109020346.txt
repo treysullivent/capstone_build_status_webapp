@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx01</JOB_NAME><START_TIME>Tue Jan 08 06:15:34 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-tst-rx01</TARGET_SERVERS><PCI_VERSION>18.2.5.363</PCI_VERSION><DATABASE_VERSION>18.2.5.363</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.176</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jan 08 07:06:45 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jan 08 07:07:11 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 08 07:08:13 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-tst-rx01</END_JOB_NAME><END_TIME>Tue Jan 08 07:15:42 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx02</JOB_NAME><START_TIME>Tue Jan 08 06:15:36 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-tst-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.363</PCI_VERSION><DATABASE_VERSION>18.2.5.363</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.176</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 08 07:35:47 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-tst-rx02</END_JOB_NAME><END_TIME>Tue Jan 08 07:39:10 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx03</JOB_NAME><START_TIME>Tue Jan 08 06:15:37 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-tst-rx03</TARGET_SERVERS><PCI_VERSION>18.2.5.363</PCI_VERSION><DATABASE_VERSION>18.2.5.363</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.176</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 08 07:59:06 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-tst-rx03</END_JOB_NAME><END_TIME>Tue Jan 08 08:03:57 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx04</JOB_NAME><START_TIME>Tue Jan 08 06:15:38 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-tst-rx04</TARGET_SERVERS><PCI_VERSION>18.2.5.363</PCI_VERSION><DATABASE_VERSION>18.2.5.363</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.176</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-tst-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 08 08:24:00 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-tst-rx04</END_JOB_NAME><END_TIME>Tue Jan 08 08:27:21 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

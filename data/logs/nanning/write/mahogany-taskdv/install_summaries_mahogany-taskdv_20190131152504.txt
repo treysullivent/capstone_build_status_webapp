@@ -1,0 +1,26 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install FISher mahogany-userqa</JOB_NAME><START_TIME>Thu Jan 31 13:09:44 PST 2019</START_TIME><TARGET_SERVERS>mahogany-userqa</TARGET_SERVERS><PCI_VERSION>18.1.5.337</PCI_VERSION><DATABASE_VERSION>18.1.5.337</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.454</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-userqa</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 31 13:30:11 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-userqa</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 31 13:37:16 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FISher mahogany-userqa</END_JOB_NAME><END_TIME>Thu Jan 31 13:39:56 PST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install FISher mahogany-taskqa</JOB_NAME><START_TIME>Thu Jan 31 13:09:45 PST 2019</START_TIME><TARGET_SERVERS>mahogany-taskqa</TARGET_SERVERS><PCI_VERSION>18.1.5.337</PCI_VERSION><DATABASE_VERSION>18.1.5.337</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.454</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-taskqa</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 31 14:00:41 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-taskqa</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 31 14:04:26 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FISher mahogany-taskqa</END_JOB_NAME><END_TIME>Thu Jan 31 14:07:07 PST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Harris mahogany-userc</JOB_NAME><START_TIME>Thu Jan 31 14:26:54 PST 2019</START_TIME><TARGET_SERVERS>mahogany-userc</TARGET_SERVERS><PCI_VERSION>18.1.5.337</PCI_VERSION><DATABASE_VERSION>18.1.5.337</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.454</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-userc</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 31 14:47:22 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-userc</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 31 14:54:34 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Harris mahogany-userc</END_JOB_NAME><END_TIME>Thu Jan 31 14:57:19 PST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Harris mahogany-taskc</JOB_NAME><START_TIME>Thu Jan 31 14:26:54 PST 2019</START_TIME><TARGET_SERVERS>mahogany-taskc</TARGET_SERVERS><PCI_VERSION>18.1.5.337</PCI_VERSION><DATABASE_VERSION>18.1.5.337</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.454</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-taskc</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 31 15:17:49 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-taskc</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 31 15:21:36 PST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Harris mahogany-taskc</END_JOB_NAME><END_TIME>Thu Jan 31 15:24:15 PST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

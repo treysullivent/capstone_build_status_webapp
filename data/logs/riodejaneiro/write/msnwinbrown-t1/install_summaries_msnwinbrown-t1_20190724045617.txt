@@ -1,0 +1,14 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install WHEELER purple-pizzazz-d1</JOB_NAME><START_TIME>Tue Jul 23 10:05:57 GMT-05:00 2019</START_TIME><TARGET_SERVERS>purple-pizzazz-d1</TARGET_SERVERS><PCI_VERSION>19.1.1.448</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.458</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WHEELER purple-pizzazz-d1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jul 23 10:40:57 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WHEELER purple-pizzazz-d1</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jul 23 10:41:30 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WHEELER purple-pizzazz-d1</END_JOB_NAME><END_TIME>Tue Jul 23 10:41:32 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GRAY msnwinbrown-t1</JOB_NAME><START_TIME>Tue Jul 23 13:50:27 GMT-05:00 2019</START_TIME><TARGET_SERVERS>purple-pizzazz-t1</TARGET_SERVERS><PCI_VERSION>19.1.1.448</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.458</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GRAY msnwinbrown-t1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jul 23 14:16:16 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY msnwinbrown-t1</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jul 23 14:16:47 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GRAY msnwinbrown-t1</END_JOB_NAME><END_TIME>Tue Jul 23 14:16:49 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

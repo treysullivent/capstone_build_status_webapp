@@ -1,0 +1,30 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install KING shamrock-1607d</JOB_NAME><START_TIME>Fri Dec 21 08:50:11 CST 2018</START_TIME><TARGET_SERVERS>shamrock-1607d</TARGET_SERVERS><PCI_VERSION>18.2.4.415</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.429</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1607d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 21 09:44:49 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1607d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 21 10:00:34 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1607d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 21 10:08:06 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1607d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 21 10:09:07 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KING shamrock-1607d</END_JOB_NAME><END_TIME>Fri Dec 21 10:14:09 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KING shamrock-1608d</JOB_NAME><START_TIME>Fri Dec 21 08:50:11 CST 2018</START_TIME><TARGET_SERVERS>shamrock-1608d</TARGET_SERVERS><PCI_VERSION>18.2.4.415</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.429</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1608d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 21 11:04:33 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1608d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 21 11:09:27 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KING shamrock-1608d</END_JOB_NAME><END_TIME>Fri Dec 21 11:13:11 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KING shamrock-1609d</JOB_NAME><START_TIME>Fri Dec 21 08:50:12 CST 2018</START_TIME><TARGET_SERVERS>shamrock-1609d</TARGET_SERVERS><PCI_VERSION>18.2.4.415</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.429</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1609d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 21 12:02:39 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1609d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 21 12:07:32 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KING shamrock-1609d</END_JOB_NAME><END_TIME>Fri Dec 21 12:11:16 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KING shamrock-1604d</JOB_NAME><START_TIME>Fri Dec 21 08:50:12 CST 2018</START_TIME><TARGET_SERVERS>shamrock-1604d</TARGET_SERVERS><PCI_VERSION>18.2.4.415</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.429</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1604d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 21 13:33:49 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING shamrock-1604d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 21 13:40:06 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KING shamrock-1604d</END_JOB_NAME><END_TIME>Fri Dec 21 13:44:42 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

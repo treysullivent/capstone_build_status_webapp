@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</JOB_NAME><START_TIME>Tue Feb 12 13:25:47 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-dev-rx01</TARGET_SERVERS><PCI_VERSION>19.1.1.131</PCI_VERSION><DATABASE_VERSION>19.1.1.131</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.198</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 12 13:38:19 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 12 13:44:06 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 12 13:44:37 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Feb 12 13:45:30 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-dev-rx01</END_JOB_NAME><END_TIME>Tue Feb 12 13:45:32 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx02</JOB_NAME><START_TIME>Tue Feb 12 13:25:47 MST 2019</START_TIME><TARGET_SERVERS>violet-blue-dev-rx02</TARGET_SERVERS><PCI_VERSION>19.1.1.131</PCI_VERSION><DATABASE_VERSION>19.1.1.131</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.198</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 12 13:55:09 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL violet-blue-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Feb 12 13:59:23 MST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL violet-blue-dev-rx02</END_JOB_NAME><END_TIME>Tue Feb 12 14:07:57 MST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

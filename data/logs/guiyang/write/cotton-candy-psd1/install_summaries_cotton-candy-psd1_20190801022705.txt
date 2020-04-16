@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install PALMER cotton-candy-wsd1</JOB_NAME><START_TIME>Wed Jul 31 12:50:33 EDT 2019</START_TIME><TARGET_SERVERS>cotton-candy-wsd1</TARGET_SERVERS><PCI_VERSION>18.2.1.351</PCI_VERSION><DATABASE_VERSION>18.2.1.351</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.354</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-wsd1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jul 31 13:36:05 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-wsd1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 31 13:38:24 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PALMER cotton-candy-wsd1</END_JOB_NAME><END_TIME>Wed Jul 31 13:43:00 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PALMER cotton-candy-dwpsd1</JOB_NAME><START_TIME>Wed Jul 31 12:50:33 EDT 2019</START_TIME><TARGET_SERVERS>cotton-candy-dwpsd1</TARGET_SERVERS><PCI_VERSION>18.2.1.351</PCI_VERSION><DATABASE_VERSION>18.2.1.351</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.354</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-dwpsd1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 31 14:30:09 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PALMER cotton-candy-dwpsd1</END_JOB_NAME><END_TIME>Wed Jul 31 14:35:03 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><START_TIME>Wed Jul 31 12:50:34 EDT 2019</START_TIME><TARGET_SERVERS>cotton-candy-psd1</TARGET_SERVERS><PCI_VERSION>18.2.1.351</PCI_VERSION><DATABASE_VERSION>18.2.1.351</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.354</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jul 31 15:24:34 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PALMER cotton-candy-psd1</END_JOB_NAME><END_TIME>Wed Jul 31 15:30:07 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

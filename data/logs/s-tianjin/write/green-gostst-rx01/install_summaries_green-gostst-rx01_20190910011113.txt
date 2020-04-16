@@ -1,0 +1,26 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><START_TIME>Mon Sep 09 15:37:45 PDT 2019</START_TIME><TARGET_SERVERS>green-gostst-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.528</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.460</PCI_INSTALL_VERSION><LICENSE_GROUP>MERCK </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Sep 09 15:41:34 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Sep 09 15:44:20 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-gostst-rx02</END_JOB_NAME><END_TIME>Mon Sep 09 15:44:20 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><START_TIME>Mon Sep 09 15:59:00 PDT 2019</START_TIME><TARGET_SERVERS>green-gostst-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.528</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.460</PCI_INSTALL_VERSION><LICENSE_GROUP>MERCK </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Sep 09 15:59:48 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Sep 09 16:02:57 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-gostst-rx02</END_JOB_NAME><END_TIME>Mon Sep 09 16:02:57 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><START_TIME>Mon Sep 09 16:07:17 PDT 2019</START_TIME><TARGET_SERVERS>green-gostst-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.528</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.460</PCI_INSTALL_VERSION><LICENSE_GROUP>MERCK </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Sep 09 16:07:35 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Sep 09 16:09:46 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-gostst-rx02</END_JOB_NAME><END_TIME>Mon Sep 09 16:09:46 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><START_TIME>Mon Sep 09 16:14:25 PDT 2019</START_TIME><TARGET_SERVERS>green-gostst-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.528</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.460</PCI_INSTALL_VERSION><LICENSE_GROUP>MERCK </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Sep 09 16:14:42 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-gostst-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Sep 09 16:17:02 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-gostst-rx02</END_JOB_NAME><END_TIME>Mon Sep 09 16:17:02 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

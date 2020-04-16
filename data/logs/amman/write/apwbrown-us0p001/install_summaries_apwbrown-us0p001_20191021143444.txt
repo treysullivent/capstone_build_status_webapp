@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><START_TIME>Mon Oct 21 12:15:20 PDT 2019</START_TIME><TARGET_SERVERS>bdazzled-blue-0p001</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>6.3.5.369</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.478</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:43:16 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:44:36 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:48:29 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:48:42 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:51:08 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 13:52:51 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Oct 21 13:55:51 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY bdazzled-blue-0p001</END_JOB_NAME><END_TIME>Mon Oct 21 13:55:51 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

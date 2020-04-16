@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download KING orchid-dev1166</JOB_NAME><START_TIME>Wed Aug 15 08:55:43 GMT-05:00 2018</START_TIME><TARGET_SERVERS>orchid-dev1166</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.59</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download KING orchid-dev1166</END_JOB_NAME><END_TIME>Wed Aug 15 09:00:21 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><START_TIME>Wed Aug 15 09:01:02 GMT-05:00 2018</START_TIME><TARGET_SERVERS>orchid-dev1166</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.59</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 15 09:09:41 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 15 09:21:03 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 15 09:37:16 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Aug 15 09:42:25 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 15 09:50:54 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KING orchid-dev1166</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 15 09:51:10 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KING orchid-dev1166</END_JOB_NAME><END_TIME>Wed Aug 15 09:55:45 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

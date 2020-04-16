@@ -1,0 +1,9 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 29 10:09:16 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jun 29 10:10:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jun 29 10:10:13 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install TURNER wrmaize-pmktta</END_JOB_NAME><END_TIME>Fri Jun 29 10:13:33 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

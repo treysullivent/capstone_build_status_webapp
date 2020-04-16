@@ -1,0 +1,25 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download JAmes orange-yellow-rxs03</JOB_NAME><START_TIME>Tue Mar 26 16:27:16 CDT 2019</START_TIME><TARGET_SERVERS>orange-yellow-rxs03</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download JAmes orange-yellow-rxs03</END_JOB_NAME><END_TIME>Tue Mar 26 16:28:38 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract JAmes</JOB_NAME><START_TIME>Tue Mar 26 16:28:44 CDT 2019</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><START_TIME>Tue Mar 26 16:32:17 CDT 2019</START_TIME><TARGET_SERVERS>orange-yellow-rxs03</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Mar 26 16:44:02 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Mar 26 16:48:29 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Mar 26 16:49:45 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs03</END_JOB_NAME><END_TIME>Tue Mar 26 16:53:10 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><START_TIME>Tue Mar 26 16:32:18 CDT 2019</START_TIME><TARGET_SERVERS>orange-yellow-rxs01</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Mar 26 17:03:32 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Mar 26 17:07:42 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs01</END_JOB_NAME><END_TIME>Tue Mar 26 17:10:54 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><START_TIME>Tue Mar 26 16:32:18 CDT 2019</START_TIME><TARGET_SERVERS>orange-yellow-rxs02</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Mar 26 17:20:58 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Mar 26 17:25:04 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs02</END_JOB_NAME><END_TIME>Tue Mar 26 17:28:06 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

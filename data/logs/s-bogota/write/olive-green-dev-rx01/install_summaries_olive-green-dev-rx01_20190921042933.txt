@@ -1,0 +1,7 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Sep 20 11:23:48 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Sep 20 11:24:53 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-dev-rx01</END_JOB_NAME><END_TIME>Fri Sep 20 11:24:55 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

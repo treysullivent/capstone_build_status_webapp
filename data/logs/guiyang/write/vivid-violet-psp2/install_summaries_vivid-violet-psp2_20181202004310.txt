@@ -1,0 +1,7 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><START_TIME>Sat Dec 01 23:07:49 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-psp2</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.0.0.618</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sat Dec 01 23:35:19 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Dec 02 00:27:21 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+</SUMMARIES>

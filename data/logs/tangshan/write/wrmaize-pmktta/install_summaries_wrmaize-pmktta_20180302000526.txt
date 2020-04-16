@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download TURNER wrmaize-pmktta</JOB_NAME><START_TIME>Thu Mar 01 08:55:54 CST 2018</START_TIME><TARGET_SERVERS>maroon-glitter-ta</TARGET_SERVERS><PCI_VERSION>6.3.1.364</PCI_VERSION><DATABASE_VERSION>6.3.1.364</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.367</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download TURNER wrmaize-pmktta</END_JOB_NAME><END_TIME>Thu Mar 01 09:14:18 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><START_TIME>Thu Mar 01 09:48:38 CST 2018</START_TIME><TARGET_SERVERS>maroon-glitter-ta</TARGET_SERVERS><PCI_VERSION>6.3.1.364</PCI_VERSION><DATABASE_VERSION>6.3.1.364</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.367</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 01 10:05:13 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 01 10:06:10 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install TURNER wrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 01 10:06:15 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install TURNER wrmaize-pmktta</END_JOB_NAME><END_TIME>Thu Mar 01 10:08:58 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

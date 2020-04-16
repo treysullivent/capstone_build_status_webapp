@@ -1,0 +1,43 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download RUSSELL dandelion-rx02</JOB_NAME><START_TIME>Wed Jun 27 08:04:39 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx02</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download RUSSELL dandelion-rx02</END_JOB_NAME><END_TIME>Wed Jun 27 08:15:13 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract RUSSELL</JOB_NAME><START_TIME>Wed Jun 27 08:35:27 GMT-05:00 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><START_TIME>Wed Jun 27 12:02:44 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx02</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 12:05:29 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jun 27 12:20:50 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 12:22:00 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Jun 27 12:22:02 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL dandelion-rx02</END_JOB_NAME><END_TIME>Wed Jun 27 12:22:02 GMT-05:00 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><START_TIME>Wed Jun 27 12:22:42 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx02</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jun 27 12:37:34 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 12:38:33 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Jun 27 12:38:35 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL dandelion-rx02</END_JOB_NAME><END_TIME>Wed Jun 27 12:38:35 GMT-05:00 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><START_TIME>Wed Jun 27 12:40:09 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx02</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jun 27 12:55:15 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 12:56:07 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Jun 27 12:56:09 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL dandelion-rx02</END_JOB_NAME><END_TIME>Wed Jun 27 12:56:09 GMT-05:00 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><START_TIME>Wed Jun 27 12:59:12 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx02</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jun 27 13:13:50 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 13:14:43 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL dandelion-rx02</END_JOB_NAME><END_TIME>Wed Jun 27 13:17:46 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL dandelion-rx01</JOB_NAME><START_TIME>Wed Jun 27 12:59:13 GMT-05:00 2018</START_TIME><TARGET_SERVERS>dandelion-rx01</TARGET_SERVERS><PCI_VERSION>18.1.1.2</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 13:53:07 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL dandelion-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jun 27 14:06:19 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL dandelion-rx01</END_JOB_NAME><END_TIME>Wed Jun 27 14:09:24 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

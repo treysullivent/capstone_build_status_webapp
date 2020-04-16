@@ -1,0 +1,46 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 08:27:25 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.236</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 08:50:39 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 09:12:53 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 09:12:53 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 09:36:00 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.236</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 09:36:49 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 09:58:31 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 09:58:32 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 10:12:41 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.226</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 10:12:42 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 10:12:42 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 10:12:51 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.226</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 10:12:53 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 10:12:53 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 10:13:27 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.2.27</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 10:13:29 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 10:13:29 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 10:14:13 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.0.393</PCI_VERSION><DATABASE_VERSION>19.2.0.393</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.236</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 10:15:01 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 10:40:07 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Aug 06 10:40:36 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 10:40:38 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 12:33:41 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.1.236</PCI_VERSION><DATABASE_VERSION>19.2.1.236</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.0</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 12:33:42 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 12:33:42 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><START_TIME>Tue Aug 06 12:43:22 CDT 2019</START_TIME><TARGET_SERVERS>red-orange</TARGET_SERVERS><PCI_VERSION>19.2.1.236</PCI_VERSION><DATABASE_VERSION>19.2.1.236</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.1.236</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Aug 06 12:44:10 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Aug 06 13:02:46 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLEY red-orange</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Aug 06 13:03:15 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLEY red-orange</END_JOB_NAME><END_TIME>Tue Aug 06 13:03:17 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

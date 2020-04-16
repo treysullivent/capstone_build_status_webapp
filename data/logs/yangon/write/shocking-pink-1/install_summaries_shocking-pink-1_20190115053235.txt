@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install Reed shocking-pink-1</JOB_NAME><START_TIME>Mon Jan 14 13:50:20 CST 2019</START_TIME><TARGET_SERVERS>shocking-pink-1</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.1.4.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.432</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Reed shocking-pink-1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jan 14 14:11:37 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Reed shocking-pink-1</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 14 14:12:35 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Reed shocking-pink-1</END_JOB_NAME><END_TIME>Mon Jan 14 14:15:27 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Reed shocking-pink-2</JOB_NAME><START_TIME>Mon Jan 14 13:50:21 CST 2019</START_TIME><TARGET_SERVERS>shocking-pink-2</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.1.4.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.432</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Reed shocking-pink-2</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Jan 14 14:15:27 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Reed shocking-pink-2</END_JOB_NAME><END_TIME>Mon Jan 14 14:15:28 CST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Reed shocking-pink-2</JOB_NAME><START_TIME>Mon Jan 14 14:21:44 CST 2019</START_TIME><TARGET_SERVERS>shocking-pink-2</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.2.4.432</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.432</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Reed shocking-pink-2</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 14 14:33:32 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Reed shocking-pink-2</END_JOB_NAME><END_TIME>Mon Jan 14 14:33:34 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

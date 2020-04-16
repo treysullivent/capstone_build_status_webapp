@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><START_TIME>Mon Oct 28 15:25:26 PDT 2019</START_TIME><TARGET_SERVERS>bdazzled-blue-0p001</TARGET_SERVERS><PCI_VERSION>19.2.0.478</PCI_VERSION><DATABASE_VERSION>19.2.0.478</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 28 16:05:13 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 28 16:06:38 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p001</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 28 16:07:59 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY bdazzled-blue-0p001</END_JOB_NAME><END_TIME>Mon Oct 28 16:11:23 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLY bdazzled-blue-0p002</JOB_NAME><START_TIME>Mon Oct 28 15:25:27 PDT 2019</START_TIME><TARGET_SERVERS>bdazzled-blue-0p002</TARGET_SERVERS><PCI_VERSION>19.2.0.478</PCI_VERSION><DATABASE_VERSION>19.2.0.478</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p002</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 28 16:40:18 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY bdazzled-blue-0p002</END_JOB_NAME><END_TIME>Mon Oct 28 16:45:14 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLY bdazzled-blue-0p003</JOB_NAME><START_TIME>Mon Oct 28 15:25:29 PDT 2019</START_TIME><TARGET_SERVERS>bdazzled-blue-0p003</TARGET_SERVERS><PCI_VERSION>19.2.0.478</PCI_VERSION><DATABASE_VERSION>19.2.0.478</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p003</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 28 17:24:54 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY bdazzled-blue-0p003</END_JOB_NAME><END_TIME>Mon Oct 28 17:27:45 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLY bdazzled-blue-0p004</JOB_NAME><START_TIME>Mon Oct 28 15:25:30 PDT 2019</START_TIME><TARGET_SERVERS>bdazzled-blue-0p004</TARGET_SERVERS><PCI_VERSION>19.2.0.478</PCI_VERSION><DATABASE_VERSION>19.2.0.478</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY bdazzled-blue-0p004</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 28 17:55:28 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY bdazzled-blue-0p004</END_JOB_NAME><END_TIME>Mon Oct 28 17:58:08 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

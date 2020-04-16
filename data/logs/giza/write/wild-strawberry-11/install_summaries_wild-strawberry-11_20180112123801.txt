@@ -1,0 +1,9 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install SCHMIDT steel-blue-lc12</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jan 12 12:28:51 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install SCHMIDT steel-blue-lc12</END_JOB_NAME><END_TIME>Fri Jan 12 12:30:49 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<NOTIFICATION><JOB_NAME>GM Install CAMPBELL periwinkle-lc12</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jan 12 12:33:03 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CAMPBELL periwinkle-lc12</END_JOB_NAME><END_TIME>Fri Jan 12 12:35:06 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install CAMPBELL periwinkle-lc13</JOB_NAME><START_TIME>Fri Jan 12 10:11:51 MST 2018</START_TIME><TARGET_SERVERS>periwinkle-lc13</TARGET_SERVERS><PCI_VERSION>6.3.1.345</PCI_VERSION><DATABASE_VERSION>6.3.1.345</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.357</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+</SUMMARIES>

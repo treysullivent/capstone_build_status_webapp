@@ -1,0 +1,14 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download COOK blush-pjm04d</JOB_NAME><START_TIME>Thu Nov 09 07:32:24 EST 2017</START_TIME><TARGET_SERVERS>blush-pjm04d</TARGET_SERVERS><PCI_VERSION>6.2.2.300</PCI_VERSION><DATABASE_VERSION>6.3.2.303</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.2.304</PCI_INSTALL_VERSION><LICENSE_GROUP>MASTERCARD </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Release Download COOK blush-pjm04d</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Nov 09 07:55:57 EST 2017</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Release Download COOK blush-pjm04d</END_JOB_NAME><END_TIME>Thu Nov 09 07:55:57 EST 2017</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><START_TIME>Thu Nov 09 07:56:48 EST 2017</START_TIME><TARGET_SERVERS>blush-pjm04d</TARGET_SERVERS><PCI_VERSION>6.2.2.300</PCI_VERSION><DATABASE_VERSION>6.3.2.303</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.2.304</PCI_INSTALL_VERSION><LICENSE_GROUP>MASTERCARD </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Nov 09 09:05:46 EST 2017</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Nov 09 09:06:44 EST 2017</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK blush-pjm04d</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Nov 09 09:08:03 EST 2017</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install COOK blush-pjm04d</END_JOB_NAME><END_TIME>Thu Nov 09 09:08:10 EST 2017</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

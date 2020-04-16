@@ -1,0 +1,27 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 00:20:03 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosdev-rx02</END_JOB_NAME><END_TIME>Thu Oct 31 00:23:28 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosdev-rx03</JOB_NAME><START_TIME>Wed Oct 30 23:32:33 PDT 2019</START_TIME><TARGET_SERVERS>green-tosdev-rx03</TARGET_SERVERS><PCI_VERSION>19.2.0.460</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 00:44:10 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosdev-rx03</END_JOB_NAME><END_TIME>Thu Oct 31 00:47:49 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosdev-rx04</JOB_NAME><START_TIME>Wed Oct 30 23:32:35 PDT 2019</START_TIME><TARGET_SERVERS>green-tosdev-rx04</TARGET_SERVERS><PCI_VERSION>19.2.0.460</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 00:51:10 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 01:06:19 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosdev-rx04</END_JOB_NAME><END_TIME>Thu Oct 31 01:09:45 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosdev-rx05</JOB_NAME><START_TIME>Wed Oct 30 23:32:37 PDT 2019</START_TIME><TARGET_SERVERS>green-tosdev-rx05</TARGET_SERVERS><PCI_VERSION>19.2.0.460</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 01:13:47 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 01:34:35 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosdev-rx05</END_JOB_NAME><END_TIME>Thu Oct 31 01:38:27 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosdev-rx06</JOB_NAME><START_TIME>Wed Oct 30 23:32:40 PDT 2019</START_TIME><TARGET_SERVERS>green-tosdev-rx06</TARGET_SERVERS><PCI_VERSION>19.2.0.460</PCI_VERSION><DATABASE_VERSION>19.2.0.460</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.0.510</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 01:43:29 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosdev-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 31 02:11:11 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosdev-rx06</END_JOB_NAME><END_TIME>Thu Oct 31 02:15:14 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

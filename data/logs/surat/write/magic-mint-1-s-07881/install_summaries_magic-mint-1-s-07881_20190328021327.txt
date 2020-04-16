@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install GONZALEZ magic-mint-1-s-07881</JOB_NAME><START_TIME>Wed Mar 27 08:47:00 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-07881</TARGET_SERVERS><PCI_VERSION>18.2.5.471</PCI_VERSION><DATABASE_VERSION>18.2.5.471</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 27 09:16:26 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 27 09:16:53 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ magic-mint-1-s-07881</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Mar 27 09:25:15 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GONZALEZ magic-mint-1-s-07881</END_JOB_NAME><END_TIME>Wed Mar 27 09:31:12 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Release Download HERNANDEZ magic-mint-1-s-07881</JOB_NAME><START_TIME>Wed Mar 27 11:03:00 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-07881</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download HERNANDEZ magic-mint-1-s-07881</END_JOB_NAME><END_TIME>Wed Mar 27 11:03:58 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><START_TIME>Wed Mar 27 11:04:50 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-07881</TARGET_SERVERS><PCI_VERSION>19.1.0.360</PCI_VERSION><DATABASE_VERSION>19.1.0.360</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.372</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Mar 27 11:13:06 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 27 11:39:51 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 27 11:42:15 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Mar 27 11:47:15 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</END_JOB_NAME><END_TIME>Wed Mar 27 11:50:57 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

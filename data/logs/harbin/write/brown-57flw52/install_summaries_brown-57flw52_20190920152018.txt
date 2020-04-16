@@ -1,0 +1,5 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install PORTER brown-57flw52</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Sep 20 15:19:58 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PORTER brown-57flw52</END_JOB_NAME><END_TIME>Fri Sep 20 15:19:58 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

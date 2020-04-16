@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install Allen jazzberry-jam-1</JOB_NAME><START_TIME>Thu Jun 20 16:14:56 PDT 2019</START_TIME><TARGET_SERVERS>jazzberry-jam-1</TARGET_SERVERS><PCI_VERSION>18.2.5.459</PCI_VERSION><DATABASE_VERSION>18.2.5.459</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.508</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Allen jazzberry-jam-1</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jun 20 16:19:19 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Allen jazzberry-jam-1</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jun 20 16:52:23 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Allen jazzberry-jam-1</END_JOB_NAME><END_TIME>Thu Jun 20 16:55:58 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Allen jazzberry-jam-2</JOB_NAME><START_TIME>Thu Jun 20 16:14:57 PDT 2019</START_TIME><TARGET_SERVERS>jazzberry-jam-2</TARGET_SERVERS><PCI_VERSION>18.2.5.459</PCI_VERSION><DATABASE_VERSION>18.2.5.459</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.508</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Allen jazzberry-jam-2</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jun 20 17:28:52 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Allen jazzberry-jam-2</END_JOB_NAME><END_TIME>Thu Jun 20 17:33:10 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

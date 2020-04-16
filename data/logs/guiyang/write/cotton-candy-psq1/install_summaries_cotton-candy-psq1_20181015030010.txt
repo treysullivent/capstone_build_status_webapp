@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><START_TIME>Sun Oct 14 15:43:09 EDT 2018</START_TIME><TARGET_SERVERS>cotton-candy-psq1</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.0.0.618</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 14 16:11:11 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 14 16:28:39 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 14 16:35:34 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install NICHOLS cotton-candy-psq1</END_JOB_NAME><END_TIME>Sun Oct 14 16:46:00 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><START_TIME>Sun Oct 14 18:59:05 EDT 2018</START_TIME><TARGET_SERVERS>cotton-candy-psq1</TARGET_SERVERS><PCI_VERSION>6.0.0.618</PCI_VERSION><DATABASE_VERSION>6.0.0.618</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.289</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 14 19:50:56 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 14 20:05:04 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install NICHOLS cotton-candy-psq1</JOB_NAME><TYPE>INFO</TYPE><TIME>Sun Oct 14 20:15:42 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install NICHOLS cotton-candy-psq1</END_JOB_NAME><END_TIME>Sun Oct 14 20:15:44 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

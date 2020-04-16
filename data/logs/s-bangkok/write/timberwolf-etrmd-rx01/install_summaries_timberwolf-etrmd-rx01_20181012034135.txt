@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx01</JOB_NAME><START_TIME>Thu Oct 11 13:28:46 CDT 2018</START_TIME><TARGET_SERVERS>timberwolf-etrmd-rx01</TARGET_SERVERS><PCI_VERSION>18.2.2.263</PCI_VERSION><DATABASE_VERSION>18.2.2.263</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.353</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Oct 11 13:46:04 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 11 13:50:13 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx01</END_JOB_NAME><END_TIME>Thu Oct 11 13:53:33 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx02</JOB_NAME><START_TIME>Thu Oct 11 13:28:47 CDT 2018</START_TIME><TARGET_SERVERS>timberwolf-etrmd-rx02</TARGET_SERVERS><PCI_VERSION>18.2.2.263</PCI_VERSION><DATABASE_VERSION>18.2.2.263</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.353</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Oct 11 14:07:23 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL timberwolf-etrmd-rx02</END_JOB_NAME><END_TIME>Thu Oct 11 14:10:32 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

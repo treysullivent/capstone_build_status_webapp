@@ -1,0 +1,15 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download MURphy orange-red-04t</JOB_NAME><START_TIME>Fri Apr 05 14:04:09 CDT 2019</START_TIME><TARGET_SERVERS>orange-red-04t</TARGET_SERVERS><PCI_VERSION>18.2.4.447</PCI_VERSION><DATABASE_VERSION>18.2.4.447</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.452</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download MURphy orange-red-04t</END_JOB_NAME><END_TIME>Fri Apr 05 14:06:17 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract MURphy</JOB_NAME><START_TIME>Fri Apr 05 14:13:57 CDT 2019</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.2.4.447</PCI_VERSION><DATABASE_VERSION>18.2.4.447</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.452</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install MURphy orange-red-04t</JOB_NAME><START_TIME>Fri Apr 05 14:19:52 CDT 2019</START_TIME><TARGET_SERVERS>orange-red-04t</TARGET_SERVERS><PCI_VERSION>18.2.4.447</PCI_VERSION><DATABASE_VERSION>18.2.4.447</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.452</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MURphy orange-red-04t</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Apr 05 14:31:30 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MURphy orange-red-04t</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Apr 05 14:31:57 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MURphy orange-red-04t</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Apr 05 14:32:20 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MURphy orange-red-04t</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Apr 05 14:33:11 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MURphy orange-red-04t</END_JOB_NAME><END_TIME>Fri Apr 05 14:35:53 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

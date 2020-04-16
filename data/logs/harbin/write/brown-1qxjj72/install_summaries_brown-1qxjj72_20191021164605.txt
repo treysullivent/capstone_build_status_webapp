@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install Thomas brown-1qxjj72</JOB_NAME><START_TIME>Mon Oct 21 15:53:02 CDT 2019</START_TIME><TARGET_SERVERS>brown-1qxjj72</TARGET_SERVERS><PCI_VERSION>19.2.3.341</PCI_VERSION><DATABASE_VERSION>19.2.3.406</DATABASE_VERSION><PCI_INSTALL_VERSION>19.2.3.406</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Thomas brown-1qxjj72</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 16:43:17 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Thomas brown-1qxjj72</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 16:43:52 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Thomas brown-1qxjj72</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 21 16:44:22 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Thomas brown-1qxjj72</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 21 16:45:40 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Thomas brown-1qxjj72</END_JOB_NAME><END_TIME>Mon Oct 21 16:45:41 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

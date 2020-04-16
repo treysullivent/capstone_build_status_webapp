@@ -1,0 +1,26 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL magenta-rx01</JOB_NAME><START_TIME>Fri Jul 06 16:17:08 CDT 2018</START_TIME><TARGET_SERVERS>magenta-rx01</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:28:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:39:52 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL magenta-rx01</END_JOB_NAME><END_TIME>Fri Jul 06 16:42:33 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL magenta-rx02</JOB_NAME><START_TIME>Fri Jul 06 16:17:09 CDT 2018</START_TIME><TARGET_SERVERS>magenta-rx02</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:45:16 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:55:51 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL magenta-rx02</END_JOB_NAME><END_TIME>Fri Jul 06 16:58:33 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL magenta-rx03</JOB_NAME><START_TIME>Fri Jul 06 16:17:10 CDT 2018</START_TIME><TARGET_SERVERS>magenta-rx03</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 17:01:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 17:12:28 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL magenta-rx03</END_JOB_NAME><END_TIME>Fri Jul 06 17:15:20 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL magenta-rx04</JOB_NAME><START_TIME>Fri Jul 06 16:17:11 CDT 2018</START_TIME><TARGET_SERVERS>magenta-rx04</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 17:17:49 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL magenta-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 17:28:10 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL magenta-rx04</END_JOB_NAME><END_TIME>Fri Jul 06 17:30:48 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><START_TIME>Mon Aug 26 10:14:49 MDT 2019</START_TIME><TARGET_SERVERS>piggy-pink-lc11</TARGET_SERVERS><PCI_VERSION>19.1.1.456</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.477</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install FOX piggy-pink-lc11</JOB_NAME><START_TIME>Mon Aug 26 10:14:58 MDT 2019</START_TIME><TARGET_SERVERS>piggy-pink-lc11</TARGET_SERVERS><PCI_VERSION>19.1.1.456</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.456</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FOX piggy-pink-lc11</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Aug 26 10:15:53 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FOX piggy-pink-lc11</END_JOB_NAME><END_TIME>Mon Aug 26 10:15:53 MDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install FOX piggy-pink-lc11</JOB_NAME><START_TIME>Mon Aug 26 10:16:32 MDT 2019</START_TIME><TARGET_SERVERS>piggy-pink-lc11</TARGET_SERVERS><PCI_VERSION>19.1.1.456</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.456</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FOX piggy-pink-lc11</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Aug 26 10:16:43 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FOX piggy-pink-lc11</END_JOB_NAME><END_TIME>Mon Aug 26 10:16:43 MDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Aug 26 10:18:06 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Aug 26 10:27:26 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Aug 26 10:28:01 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RILEY piggy-pink-lc11</END_JOB_NAME><END_TIME>Mon Aug 26 10:30:24 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RILEY piggy-pink-501</JOB_NAME><START_TIME>Mon Aug 26 10:14:49 MDT 2019</START_TIME><TARGET_SERVERS>piggy-pink-501</TARGET_SERVERS><PCI_VERSION>19.1.1.456</PCI_VERSION><DATABASE_VERSION>19.1.1.448</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.477</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RILEY piggy-pink-501</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Aug 26 10:59:49 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RILEY piggy-pink-501</END_JOB_NAME><END_TIME>Mon Aug 26 10:59:51 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

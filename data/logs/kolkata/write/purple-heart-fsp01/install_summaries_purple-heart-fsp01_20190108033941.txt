@@ -1,0 +1,32 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><START_TIME>Mon Jan 07 09:37:04 CST 2019</START_TIME><TARGET_SERVERS>pink-flamingo-p01</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.1.4.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Jan 07 09:57:27 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA pink-flamingo-p01</END_JOB_NAME><END_TIME>Mon Jan 07 09:57:27 CST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><START_TIME>Mon Jan 07 10:09:05 CST 2019</START_TIME><TARGET_SERVERS>pink-flamingo-p01</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.1.4.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 10:10:48 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jan 07 10:37:48 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA pink-flamingo-p01</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 10:47:38 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA pink-flamingo-p01</END_JOB_NAME><END_TIME>Mon Jan 07 10:50:37 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RIVERA purple-heart-p01</JOB_NAME><START_TIME>Mon Jan 07 10:09:05 CST 2019</START_TIME><TARGET_SERVERS>purple-heart-p01</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.1.4.298</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA purple-heart-p01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Jan 07 10:54:41 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA purple-heart-p01</END_JOB_NAME><END_TIME>Mon Jan 07 10:54:42 CST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RIVERA purple-heart-p01</JOB_NAME><START_TIME>Mon Jan 07 10:57:46 CST 2019</START_TIME><TARGET_SERVERS>purple-heart-p01</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.2.4.425</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA purple-heart-p01</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 11:07:52 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA purple-heart-p01</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 11:31:04 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA purple-heart-p01</END_JOB_NAME><END_TIME>Mon Jan 07 11:34:13 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RIVERA purple-heart-p02</JOB_NAME><START_TIME>Mon Jan 07 10:57:46 CST 2019</START_TIME><TARGET_SERVERS>purple-heart-p02</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.2.4.425</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA purple-heart-p02</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 12:12:45 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA purple-heart-p02</END_JOB_NAME><END_TIME>Mon Jan 07 12:16:47 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RIVERA purple-heart-p03</JOB_NAME><START_TIME>Mon Jan 07 10:57:46 CST 2019</START_TIME><TARGET_SERVERS>purple-heart-p03</TARGET_SERVERS><PCI_VERSION>18.1.4.298</PCI_VERSION><DATABASE_VERSION>18.2.4.425</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RIVERA purple-heart-p03</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jan 07 12:53:15 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RIVERA purple-heart-p03</END_JOB_NAME><END_TIME>Mon Jan 07 12:56:45 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

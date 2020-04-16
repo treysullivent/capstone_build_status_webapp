@@ -1,0 +1,24 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><START_TIME>Tue Feb 26 15:12:24 CST 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-07881</TARGET_SERVERS><PCI_VERSION>19.1.0.349</PCI_VERSION><DATABASE_VERSION>19.1.0.349</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.349</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:33:57 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:34:51 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:37:30 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:37:35 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:38:43 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 15:39:48 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</END_JOB_NAME><END_TIME>Tue Feb 26 15:42:04 CST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><START_TIME>Tue Feb 26 15:42:22 CST 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-07881</TARGET_SERVERS><PCI_VERSION>19.1.0.349</PCI_VERSION><DATABASE_VERSION>19.1.0.349</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.349</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 16:04:44 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Feb 26 16:07:47 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Feb 26 16:13:59 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HERNANDEZ magic-mint-1-s-07881</END_JOB_NAME><END_TIME>Tue Feb 26 16:14:03 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

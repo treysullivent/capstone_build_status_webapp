@@ -1,0 +1,23 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Extract JORDAN</JOB_NAME><START_TIME>Tue Jun 12 14:48:35 CDT 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.1.31</PCI_VERSION><DATABASE_VERSION>18.1.1.31</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.273</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><START_TIME>Tue Jun 12 14:56:42 CDT 2018</START_TIME><TARGET_SERVERS>maroon-glitter-ta</TARGET_SERVERS><PCI_VERSION>18.1.1.31</PCI_VERSION><DATABASE_VERSION>18.1.1.31</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.273</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jun 12 15:23:10 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jun 12 15:24:05 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 12 15:24:07 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JORDAN wrmaize-pmktta</END_JOB_NAME><END_TIME>Tue Jun 12 15:28:05 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Release Download JORDAN wrmaize-pmktta</JOB_NAME><START_TIME>Tue Jun 12 15:35:12 CDT 2018</START_TIME><TARGET_SERVERS>maroon-glitter-ta</TARGET_SERVERS><PCI_VERSION>18.1.4.273</PCI_VERSION><DATABASE_VERSION>18.1.4.273</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.274</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Release Download JORDAN wrmaize-pmktta</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Jun 12 15:39:46 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Release Download JORDAN wrmaize-pmktta</END_JOB_NAME><END_TIME>Tue Jun 12 15:39:46 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><START_TIME>Tue Jun 12 15:41:06 CDT 2018</START_TIME><TARGET_SERVERS>maroon-glitter-ta</TARGET_SERVERS><PCI_VERSION>18.1.4.273</PCI_VERSION><DATABASE_VERSION>18.1.4.273</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.4.274</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jun 12 16:22:39 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jun 12 16:23:32 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN wrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 12 16:23:34 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JORDAN wrmaize-pmktta</END_JOB_NAME><END_TIME>Tue Jun 12 16:27:30 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

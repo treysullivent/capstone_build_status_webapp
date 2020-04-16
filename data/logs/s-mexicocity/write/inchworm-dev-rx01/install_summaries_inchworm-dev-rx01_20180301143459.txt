@@ -1,0 +1,11 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 01 14:01:04 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL inchworm-dev-rx02</END_JOB_NAME><END_TIME>Thu Mar 01 14:03:43 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL inchworm-dev-rx03</JOB_NAME><START_TIME>Thu Mar 01 12:27:14 CST 2018</START_TIME><TARGET_SERVERS>inchworm-dev-rx03</TARGET_SERVERS><PCI_VERSION>6.2.4.299</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.4.276</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-dev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 01 14:15:18 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-dev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 01 14:29:22 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL inchworm-dev-rx03</END_JOB_NAME><END_TIME>Thu Mar 01 14:32:19 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

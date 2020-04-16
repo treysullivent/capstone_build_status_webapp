@@ -1,0 +1,79 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Extract DAVIS</JOB_NAME><START_TIME>Thu Mar 15 10:07:40 CDT 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><START_TIME>Thu Mar 15 10:28:06 CDT 2018</START_TIME><TARGET_SERVERS>sea-green-rxpci1q</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 10:56:41 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 10:56:49 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 10:56:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 10:57:54 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:12:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:20:24 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:20:37 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:22:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:22:45 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:22:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:23:51 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:23:57 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:24:09 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:24:16 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:12 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:26 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:32 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:38 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:50 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:26:55 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:02 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:25 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:32 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:43 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:51 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:27:58 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:09 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:17 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:25 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:35 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:41 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:28:52 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:29:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:29:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:31:52 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DAVIS sea-green-rxpci1q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Mar 15 11:35:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DAVIS sea-green-rxpci1q</END_JOB_NAME><END_TIME>Thu Mar 15 11:39:25 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install DAVIS sea-green-rxpci2q</JOB_NAME><START_TIME>Thu Mar 15 10:28:07 CDT 2018</START_TIME><TARGET_SERVERS>sea-green-rxpci2q</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.1.370</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install DAVIS sea-green-rxpci2q</END_JOB_NAME><END_TIME>Thu Mar 15 11:55:44 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

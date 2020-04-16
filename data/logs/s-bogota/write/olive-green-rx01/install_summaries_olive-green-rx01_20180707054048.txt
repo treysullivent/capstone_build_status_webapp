@@ -1,0 +1,36 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download russell olive-green-rx01</JOB_NAME><START_TIME>Fri Jul 06 15:20:07 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx01</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download russell olive-green-rx01</END_JOB_NAME><END_TIME>Fri Jul 06 15:30:45 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract russell</JOB_NAME><START_TIME>Fri Jul 06 15:32:48 CDT 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Extract russell</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 15:32:48 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_START><JOB_NAME>GM Extract russell</JOB_NAME><START_TIME>Fri Jul 06 15:34:32 CDT 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Extract russell</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 15:34:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><START_TIME>Fri Jul 06 15:34:45 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx01</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 15:37:30 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 06 15:48:16 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 15:49:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx01</END_JOB_NAME><END_TIME>Fri Jul 06 15:52:26 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><START_TIME>Fri Jul 06 15:34:46 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx03</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 15:55:52 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:06:28 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx03</END_JOB_NAME><END_TIME>Fri Jul 06 16:09:16 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><START_TIME>Fri Jul 06 15:34:47 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx02</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:12:02 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:22:18 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx02</END_JOB_NAME><END_TIME>Fri Jul 06 16:25:09 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><START_TIME>Fri Jul 06 15:34:48 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx04</TARGET_SERVERS><PCI_VERSION>18.1.0.680</PCI_VERSION><DATABASE_VERSION>18.1.0.680</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.689</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:28:03 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 16:38:19 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx04</END_JOB_NAME><END_TIME>Fri Jul 06 16:41:05 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,23 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 09:59:13 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL eggplant-rx01</END_JOB_NAME><END_TIME>Wed May 01 10:02:00 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL eggplant-rx04</JOB_NAME><START_TIME>Wed May 01 09:46:34 GMT-05:00 2019</START_TIME><TARGET_SERVERS>eggplant-rx04</TARGET_SERVERS><PCI_VERSION>18.2.1.312</PCI_VERSION><DATABASE_VERSION>18.2.1.345</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.345</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 10:16:52 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 10:32:25 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL eggplant-rx04</END_JOB_NAME><END_TIME>Wed May 01 10:36:03 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><START_TIME>Wed May 01 09:46:36 GMT-05:00 2019</START_TIME><TARGET_SERVERS>eggplant-rx02</TARGET_SERVERS><PCI_VERSION>18.2.1.312</PCI_VERSION><DATABASE_VERSION>18.2.1.345</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.345</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 11:24:47 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed May 01 11:24:47 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL eggplant-rx02</END_JOB_NAME><END_TIME>Wed May 01 11:24:47 GMT-05:00 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><START_TIME>Wed May 01 12:52:58 GMT-05:00 2019</START_TIME><TARGET_SERVERS>eggplant-rx02</TARGET_SERVERS><PCI_VERSION>18.2.1.312</PCI_VERSION><DATABASE_VERSION>18.2.1.345</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.345</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 12:53:53 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL eggplant-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 01 13:08:28 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL eggplant-rx02</END_JOB_NAME><END_TIME>Wed May 01 13:11:52 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

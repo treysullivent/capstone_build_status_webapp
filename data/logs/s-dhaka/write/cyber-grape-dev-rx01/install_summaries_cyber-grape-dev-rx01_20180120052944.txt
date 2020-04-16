@@ -1,0 +1,15 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><START_TIME>Fri Jan 19 14:22:37 CST 2018</START_TIME><TARGET_SERVERS>cyber-grape-dev-rx01</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.357</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 19 15:19:30 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 19 15:22:09 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 19 15:33:10 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 19 15:46:03 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 19 15:59:41 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx01</END_JOB_NAME><END_TIME>Fri Jan 19 16:03:07 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL cyber-grape-dev-rx02</JOB_NAME><START_TIME>Fri Jan 19 14:22:37 CST 2018</START_TIME><TARGET_SERVERS>cyber-grape-dev-rx02</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.357</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+</SUMMARIES>

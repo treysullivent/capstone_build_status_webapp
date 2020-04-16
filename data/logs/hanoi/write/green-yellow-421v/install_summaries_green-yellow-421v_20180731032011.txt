@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><START_TIME>Mon Jul 30 12:34:11 EDT 2018</START_TIME><TARGET_SERVERS>green-yellow-421v</TARGET_SERVERS><PCI_VERSION>6.3.2.319</PCI_VERSION><DATABASE_VERSION>6.3.2.319</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.2.362</PCI_INSTALL_VERSION><LICENSE_GROUP>MEDTRONIC </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jul 30 12:50:02 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jul 30 12:50:21 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jul 30 12:51:07 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jul 30 12:51:42 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>ERROR</TYPE><TIME>Mon Jul 30 12:51:53 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WILSON green-yellow-421v</END_JOB_NAME><END_TIME>Mon Jul 30 12:51:53 EDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><START_TIME>Mon Jul 30 14:39:39 EDT 2018</START_TIME><TARGET_SERVERS>green-yellow-421v</TARGET_SERVERS><PCI_VERSION>6.3.2.319</PCI_VERSION><DATABASE_VERSION>6.3.2.319</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.2.362</PCI_INSTALL_VERSION><LICENSE_GROUP>MEDTRONIC </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WILSON green-yellow-421v</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jul 30 14:49:40 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WILSON green-yellow-421v</END_JOB_NAME><END_TIME>Mon Jul 30 14:49:42 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WILSON yellow-green-p480</JOB_NAME><START_TIME>Mon Jul 30 14:39:39 EDT 2018</START_TIME><TARGET_SERVERS>yellow-green-p480</TARGET_SERVERS><PCI_VERSION>6.3.2.319</PCI_VERSION><DATABASE_VERSION>6.3.2.319</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.2.362</PCI_INSTALL_VERSION><LICENSE_GROUP>MEDTRONIC </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WILSON yellow-green-p480</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jul 30 15:09:11 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WILSON yellow-green-p480</END_JOB_NAME><END_TIME>Mon Jul 30 15:09:12 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

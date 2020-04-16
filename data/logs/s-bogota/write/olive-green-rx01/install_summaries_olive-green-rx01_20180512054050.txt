@@ -1,0 +1,31 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download russell olive-green-rx01</JOB_NAME><START_TIME>Fri May 11 07:40:34 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx01</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download russell olive-green-rx01</END_JOB_NAME><END_TIME>Fri May 11 07:50:13 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract russell</JOB_NAME><START_TIME>Fri May 11 07:50:19 CDT 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><START_TIME>Fri May 11 08:02:03 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx01</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:03:30 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri May 11 08:20:34 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:21:49 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx01</END_JOB_NAME><END_TIME>Fri May 11 08:24:53 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><START_TIME>Fri May 11 08:02:04 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx03</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:25:40 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:36:26 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx03</END_JOB_NAME><END_TIME>Fri May 11 08:39:17 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><START_TIME>Fri May 11 08:02:04 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx02</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:42:00 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:53:11 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx02</END_JOB_NAME><END_TIME>Fri May 11 08:56:11 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><START_TIME>Fri May 11 08:02:05 CDT 2018</START_TIME><TARGET_SERVERS>olive-green-rx04</TARGET_SERVERS><PCI_VERSION>18.1.0.672</PCI_VERSION><DATABASE_VERSION>18.1.0.672</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.680</PCI_INSTALL_VERSION><LICENSE_GROUP>WALTDISNEY</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 08:57:05 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell olive-green-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 11 09:07:45 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell olive-green-rx04</END_JOB_NAME><END_TIME>Fri May 11 09:10:29 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

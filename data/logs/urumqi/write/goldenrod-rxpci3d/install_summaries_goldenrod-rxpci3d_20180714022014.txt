@@ -1,0 +1,24 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci3d</JOB_NAME><START_TIME>Fri Jul 13 10:40:04 CDT 2018</START_TIME><TARGET_SERVERS>goldenrod-rxpci3d</TARGET_SERVERS><PCI_VERSION>18.1.1.47</PCI_VERSION><DATABASE_VERSION>18.1.1.47</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.51</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci3d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 13 10:59:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci3d</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 13 11:00:39 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci3d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 13 11:01:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PHILLIPS goldenrod-rxpci3d</END_JOB_NAME><END_TIME>Fri Jul 13 11:04:56 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci4d</JOB_NAME><START_TIME>Fri Jul 13 10:40:04 CDT 2018</START_TIME><TARGET_SERVERS>goldenrod-rxpci4d</TARGET_SERVERS><PCI_VERSION>18.1.1.47</PCI_VERSION><DATABASE_VERSION>18.1.1.47</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.51</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PHILLIPS goldenrod-rxpci4d</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 13 11:21:25 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PHILLIPS goldenrod-rxpci4d</END_JOB_NAME><END_TIME>Fri Jul 13 11:24:37 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PARKER mauvelous-rxpci3q</JOB_NAME><START_TIME>Fri Jul 13 11:59:27 CDT 2018</START_TIME><TARGET_SERVERS>mauvelous-rxpci3q</TARGET_SERVERS><PCI_VERSION>18.1.1.47</PCI_VERSION><DATABASE_VERSION>18.1.1.47</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.51</PCI_INSTALL_VERSION><LICENSE_GROUP>COMCAST </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PARKER mauvelous-rxpci3q</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 13 12:15:48 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PARKER mauvelous-rxpci3q</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 13 12:16:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PARKER mauvelous-rxpci3q</END_JOB_NAME><END_TIME>Fri Jul 13 12:18:47 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PARKER mauvelous-rxpci4q</JOB_NAME><START_TIME>Fri Jul 13 11:59:27 CDT 2018</START_TIME><TARGET_SERVERS>mauvelous-rxpci4q</TARGET_SERVERS><PCI_VERSION>18.1.1.47</PCI_VERSION><DATABASE_VERSION>18.1.1.47</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.51</PCI_INSTALL_VERSION><LICENSE_GROUP>COMCAST </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PARKER mauvelous-rxpci4q</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 13 12:35:37 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PARKER mauvelous-rxpci4q</END_JOB_NAME><END_TIME>Fri Jul 13 12:38:07 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

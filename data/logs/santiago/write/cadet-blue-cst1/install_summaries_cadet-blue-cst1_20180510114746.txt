@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install HOLMES cadet-blue-cst1</JOB_NAME><START_TIME>Thu May 10 09:37:40 PDT 2018</START_TIME><TARGET_SERVERS>cadet-blue-cst1</TARGET_SERVERS><PCI_VERSION>18.1.1.18</PCI_VERSION><DATABASE_VERSION>18.1.1.18</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.27</PCI_INSTALL_VERSION><LICENSE_GROUP>Procter </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HOLMES cadet-blue-cst1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu May 10 10:07:57 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HOLMES cadet-blue-cst1</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu May 10 10:21:24 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HOLMES cadet-blue-cst1</END_JOB_NAME><END_TIME>Thu May 10 10:23:27 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

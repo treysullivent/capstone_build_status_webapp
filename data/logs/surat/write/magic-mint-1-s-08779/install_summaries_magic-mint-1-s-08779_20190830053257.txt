@@ -1,0 +1,72 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><START_TIME>Thu Aug 29 11:40:10 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08779</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:04 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:08 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:19 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:24 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:35 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:46:43 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:49:04 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:49:34 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:50:27 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:51:27 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:51:49 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:55:45 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:55:54 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:55:57 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:56:06 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:56:43 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:57:24 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:57:35 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:58:45 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:59:02 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 13:59:22 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:00:41 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:01:19 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:01:50 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:05:26 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:05:39 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:06:20 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:06:39 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:09:40 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:09:59 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:11:36 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 29 14:13:22 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08779</END_JOB_NAME><END_TIME>Thu Aug 29 14:17:22 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08778</JOB_NAME><START_TIME>Thu Aug 29 11:40:10 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08778</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08778</END_JOB_NAME><END_TIME>Thu Aug 29 16:31:55 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08777</JOB_NAME><START_TIME>Thu Aug 29 11:40:10 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08777</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08777</END_JOB_NAME><END_TIME>Thu Aug 29 18:20:13 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

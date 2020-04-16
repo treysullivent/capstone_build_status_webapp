@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install KELLY maize-mrtu-p05</JOB_NAME><START_TIME>Wed Mar 20 14:18:57 PDT 2019</START_TIME><TARGET_SERVERS>maize-mrtu-p05</TARGET_SERVERS><PCI_VERSION>6.3.5.357</PCI_VERSION><DATABASE_VERSION>6.3.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.5.364</PCI_INSTALL_VERSION><LICENSE_GROUP>Visa </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p05</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 20 16:08:29 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p05</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 20 16:10:00 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p05</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 20 16:23:43 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p05</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Mar 20 16:26:37 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY maize-mrtu-p05</END_JOB_NAME><END_TIME>Wed Mar 20 16:26:40 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install KELLY maize-mrtu-p04</JOB_NAME><START_TIME>Wed Mar 20 14:18:58 PDT 2019</START_TIME><TARGET_SERVERS>maize-mrtu-p04</TARGET_SERVERS><PCI_VERSION>6.3.5.357</PCI_VERSION><DATABASE_VERSION>6.3.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.5.364</PCI_INSTALL_VERSION><LICENSE_GROUP>Visa </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p04</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Mar 20 17:55:26 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install KELLY maize-mrtu-p04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Mar 20 18:03:07 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install KELLY maize-mrtu-p04</END_JOB_NAME><END_TIME>Wed Mar 20 18:03:22 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

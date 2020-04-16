@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install REYES green-yellow-423v</JOB_NAME><START_TIME>Mon Jul 08 10:02:05 EDT 2019</START_TIME><TARGET_SERVERS>green-yellow-423v</TARGET_SERVERS><PCI_VERSION>19.1.2.275</PCI_VERSION><DATABASE_VERSION>19.1.2.275</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.280</PCI_INSTALL_VERSION><LICENSE_GROUP>SALESFORCE</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install REYES green-yellow-423v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jul 08 10:25:08 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install REYES green-yellow-423v</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jul 08 10:28:58 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install REYES green-yellow-423v</END_JOB_NAME><END_TIME>Mon Jul 08 10:33:49 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

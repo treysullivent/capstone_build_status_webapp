@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><START_TIME>Thu Sep 20 14:35:22 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tst505</TARGET_SERVERS><PCI_VERSION>18.1.1.39</PCI_VERSION><DATABASE_VERSION>18.1.1.39</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.294</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 20 14:37:22 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 20 15:05:48 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 20 15:06:02 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 20 15:06:25 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst505</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 20 15:12:06 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RODRIguez desert-sand-tst505</END_JOB_NAME><END_TIME>Thu Sep 20 15:15:20 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RODRIguez desert-sand-tst506</JOB_NAME><START_TIME>Thu Sep 20 14:35:23 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tst506</TARGET_SERVERS><PCI_VERSION>18.1.1.39</PCI_VERSION><DATABASE_VERSION>18.1.1.39</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.294</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst506</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 20 15:37:38 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RODRIguez desert-sand-tst506</END_JOB_NAME><END_TIME>Thu Sep 20 15:40:30 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RODRIguez desert-sand-tst507</JOB_NAME><START_TIME>Thu Sep 20 14:35:25 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tst507</TARGET_SERVERS><PCI_VERSION>18.1.1.39</PCI_VERSION><DATABASE_VERSION>18.1.1.39</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.294</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RODRIguez desert-sand-tst507</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 20 16:02:05 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RODRIguez desert-sand-tst507</END_JOB_NAME><END_TIME>Thu Sep 20 16:04:43 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,26 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install DUNCAN purple-pizzazz-t1</JOB_NAME><START_TIME>Wed May 23 10:10:03 GMT-05:00 2018</START_TIME><TARGET_SERVERS>purple-pizzazz-t1</TARGET_SERVERS><PCI_VERSION>18.1.1.23</PCI_VERSION><DATABASE_VERSION>18.1.1.23</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.31</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DUNCAN purple-pizzazz-t1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed May 23 10:23:55 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DUNCAN purple-pizzazz-t1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 23 10:24:38 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DUNCAN purple-pizzazz-t1</END_JOB_NAME><END_TIME>Wed May 23 10:26:55 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><START_TIME>Wed May 23 10:27:50 GMT-05:00 2018</START_TIME><TARGET_SERVERS>purple-pizzazz-t1</TARGET_SERVERS><PCI_VERSION>18.1.1.23</PCI_VERSION><DATABASE_VERSION>18.1.1.23</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.31</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed May 23 10:28:39 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed May 23 10:39:43 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 23 10:40:26 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed May 23 11:00:28 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GRAY purple-pizzazz-t1</END_JOB_NAME><END_TIME>Wed May 23 11:00:28 GMT-05:00 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><START_TIME>Wed May 23 11:17:01 GMT-05:00 2018</START_TIME><TARGET_SERVERS>purple-pizzazz-t1</TARGET_SERVERS><PCI_VERSION>18.1.1.23</PCI_VERSION><DATABASE_VERSION>18.1.1.23</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.31</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed May 23 11:17:19 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed May 23 11:26:43 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GRAY purple-pizzazz-t1</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed May 23 11:27:27 GMT-05:00 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GRAY purple-pizzazz-t1</END_JOB_NAME><END_TIME>Wed May 23 11:27:29 GMT-05:00 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

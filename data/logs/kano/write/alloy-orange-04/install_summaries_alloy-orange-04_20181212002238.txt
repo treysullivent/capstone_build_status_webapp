@@ -1,0 +1,56 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download LONG alloy-orange-04</JOB_NAME><START_TIME>Tue Dec 11 09:48:04 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-04</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download LONG alloy-orange-04</END_JOB_NAME><END_TIME>Tue Dec 11 09:52:12 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><START_TIME>Tue Dec 11 10:01:00 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-04</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 10:22:21 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 10:24:40 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-04</END_JOB_NAME><END_TIME>Tue Dec 11 10:24:40 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><START_TIME>Tue Dec 11 10:31:46 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-04</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 10:31:46 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-04</END_JOB_NAME><END_TIME>Tue Dec 11 10:31:46 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><START_TIME>Tue Dec 11 10:34:37 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-04</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 10:55:05 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Dec 11 10:56:36 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-04</END_JOB_NAME><END_TIME>Tue Dec 11 10:56:38 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 10:34:37 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.1.1.57</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 10:56:42 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 10:56:42 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 10:57:12 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 10:57:13 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 10:57:13 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 11:01:16 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 11:09:07 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 11:09:07 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 11:27:38 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 11:27:49 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 11:27:53 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 11:27:54 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 11:29:26 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 11:29:29 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 11:29:29 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 11:29:40 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 11:32:41 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 11:33:57 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Dec 11 11:33:57 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 11:36:24 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Dec 11 11:54:27 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_START><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><START_TIME>Tue Dec 11 11:59:18 CST 2018</START_TIME><TARGET_SERVERS>alloy-orange-03</TARGET_SERVERS><PCI_VERSION>18.1.1.57</PCI_VERSION><DATABASE_VERSION>18.2.1.306</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install LONG alloy-orange-03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Dec 11 12:12:12 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install LONG alloy-orange-03</END_JOB_NAME><END_TIME>Tue Dec 11 12:12:13 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

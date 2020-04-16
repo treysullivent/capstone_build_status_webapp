@@ -1,0 +1,36 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install Thomas mahogany-taskdv</JOB_NAME><START_TIME>Mon Oct 29 10:53:36 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-taskdv</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Thomas mahogany-taskdv</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Oct 29 11:04:07 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Thomas mahogany-taskdv</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 11:07:56 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Thomas mahogany-taskdv</END_JOB_NAME><END_TIME>Mon Oct 29 11:11:29 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Thomas mahogany-userdv</JOB_NAME><START_TIME>Mon Oct 29 10:53:37 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-userdv</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Thomas mahogany-userdv</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 11:24:25 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Thomas mahogany-userdv</END_JOB_NAME><END_TIME>Mon Oct 29 11:27:40 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install FISher mahogany-userqa</JOB_NAME><START_TIME>Mon Oct 29 11:31:41 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-userqa</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-userqa</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 11:45:35 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FISher mahogany-userqa</END_JOB_NAME><END_TIME>Mon Oct 29 11:48:34 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install FISher mahogany-taskqa</JOB_NAME><START_TIME>Mon Oct 29 11:31:41 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-taskqa</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install FISher mahogany-taskqa</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 12:01:29 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install FISher mahogany-taskqa</END_JOB_NAME><END_TIME>Mon Oct 29 12:04:33 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Myers mahogany-usera</JOB_NAME><START_TIME>Mon Oct 29 12:07:14 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-usera</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Myers mahogany-usera</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 12:20:51 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Myers mahogany-usera</END_JOB_NAME><END_TIME>Mon Oct 29 12:23:59 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Myers mahogany-taska</JOB_NAME><START_TIME>Mon Oct 29 12:07:14 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-taska</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Myers mahogany-taska</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 12:41:52 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Myers mahogany-taska</END_JOB_NAME><END_TIME>Mon Oct 29 12:46:52 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Harris mahogany-userc</JOB_NAME><START_TIME>Mon Oct 29 12:50:42 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-userc</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-userc</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 13:04:39 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Harris mahogany-userc</END_JOB_NAME><END_TIME>Mon Oct 29 13:08:00 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Harris mahogany-taskc</JOB_NAME><START_TIME>Mon Oct 29 12:50:43 PDT 2018</START_TIME><TARGET_SERVERS>mahogany-taskc</TARGET_SERVERS><PCI_VERSION>18.1.5.278</PCI_VERSION><DATABASE_VERSION>18.1.5.278</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.315</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Harris mahogany-taskc</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Oct 29 13:21:14 PDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Harris mahogany-taskc</END_JOB_NAME><END_TIME>Mon Oct 29 13:24:18 PDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

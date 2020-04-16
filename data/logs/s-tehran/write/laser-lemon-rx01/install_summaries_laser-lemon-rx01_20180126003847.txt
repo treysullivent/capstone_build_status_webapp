@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install russell laser-lemon-rx02</JOB_NAME><START_TIME>Thu Jan 25 14:36:49 CST 2018</START_TIME><TARGET_SERVERS>laser-lemon-rx02</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.3.295</PCI_INSTALL_VERSION><LICENSE_GROUP>CHEVRON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell laser-lemon-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 25 14:53:56 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell laser-lemon-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Jan 25 14:53:59 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell laser-lemon-rx02</END_JOB_NAME><END_TIME>Thu Jan 25 14:53:59 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell laser-lemon-rx02</JOB_NAME><START_TIME>Thu Jan 25 15:10:31 CST 2018</START_TIME><TARGET_SERVERS>laser-lemon-rx02</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.3.295</PCI_INSTALL_VERSION><LICENSE_GROUP>CHEVRON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell laser-lemon-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 25 15:19:39 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell laser-lemon-rx02</END_JOB_NAME><END_TIME>Thu Jan 25 15:21:57 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,5 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Release Download RICHards gray-rx01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Sat Feb 03 04:23:40 UTC 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Release Download RICHards gray-rx01</END_JOB_NAME><END_TIME>Sat Feb 03 04:23:40 UTC 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

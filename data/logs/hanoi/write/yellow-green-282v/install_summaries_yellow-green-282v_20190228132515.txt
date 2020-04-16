@@ -1,0 +1,28 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install WARREN yellow-green-282v</JOB_NAME><START_TIME>Thu Feb 28 10:59:36 EST 2019</START_TIME><TARGET_SERVERS>yellow-green-282v</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-282v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Feb 28 11:14:39 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-282v</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Feb 28 11:21:42 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WARREN yellow-green-282v</END_JOB_NAME><END_TIME>Thu Feb 28 11:21:47 EST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WARREN yellow-green-283v</JOB_NAME><START_TIME>Thu Feb 28 10:59:44 EST 2019</START_TIME><TARGET_SERVERS>yellow-green-283v</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-283v</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Feb 28 11:55:48 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-283v</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Feb 28 11:58:54 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WARREN yellow-green-283v</END_JOB_NAME><END_TIME>Thu Feb 28 11:58:54 EST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WARREN yellow-green-283v</JOB_NAME><START_TIME>Thu Feb 28 12:10:51 EST 2019</START_TIME><TARGET_SERVERS>yellow-green-283v</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>18.2.2.263</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-283v</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Feb 28 12:25:16 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WARREN yellow-green-283v</END_JOB_NAME><END_TIME>Thu Feb 28 12:25:21 EST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WARREN yellow-green-p481</JOB_NAME><START_TIME>Thu Feb 28 12:11:00 EST 2019</START_TIME><TARGET_SERVERS>yellow-green-p481</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>18.2.2.263</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-p481</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Feb 28 12:48:53 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-p481</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Feb 28 12:51:18 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WARREN yellow-green-p481</END_JOB_NAME><END_TIME>Thu Feb 28 12:51:18 EST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WARREN yellow-green-p481</JOB_NAME><START_TIME>Thu Feb 28 13:12:43 EST 2019</START_TIME><TARGET_SERVERS>yellow-green-p481</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>18.2.2.263</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WARREN yellow-green-p481</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Feb 28 13:23:24 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WARREN yellow-green-p481</END_JOB_NAME><END_TIME>Thu Feb 28 13:23:30 EST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

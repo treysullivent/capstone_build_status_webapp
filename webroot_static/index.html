@@ -1,0 +1,503 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="shortcut icon" href="#">
+		
+		
+		<!-- jQuery -->
+		<script src="/js/jquery.min.js"></script>
+
+		<!-- Bootstrap CSS -->
+		 <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+		<!-- <link rel="stylesheet" href="css/bootstrap-theme.min.css"> -->
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+		<!-- Latest compiled and minified CSS -->
+		<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+		
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+		
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+
+
+
+
+		<!-- Custom CSS-->
+		<link type="text/css" rel="stylesheet" href="/css/custom/capstone.css">
+
+		<!-- End Imports -->
+
+	</head>
+
+	<!-- ================================================================================== -->
+
+	<body>
+
+		<!-- Dark/Light Mode Switch-->
+		<label class="switch sticky">
+			<input id="switch1" type="checkbox" onclick="lightSwitch()">
+			<span class="slider round">
+		</label>
+
+
+		<div class="container">
+			
+			<!-- Page Title -->
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="">
+						<h1 class="title">PCI Capstone Demo
+						</h1>
+					</div>
+				</div>
+			</div>
+			<!-- row -->
+
+			<hr/>
+			<!-- ================================================================================== -->
+
+			<!-- TOP PANEL -->
+
+			<!-- TITLES -->
+			<div class="row">
+				<div class="col-lg-6">
+				
+					<h1 >Status Overview</h1>
+					<hr/>
+					
+				</div>
+				<div class="col-lg-6">
+
+					<h1>Most Recent Failures</h1>
+					<hr/>
+					
+				</div>
+
+			</div>
+
+
+			<!-- TITLES -->
+
+			<div class="row">
+
+				<!-- ===== LEFT PANEL =====  -->
+				<div class="col-lg-6">
+
+					<!-- FIRST ROW OF CIRCLES -->
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-4">
+								<div class="circle-big circle-green service-circle"> 
+								<p id="success_count" class="service-label">0</p>
+								<p class="service-label" >Up</p> </div>
+							</div>
+
+							<div class="col-lg-4">
+								<div class="circle-big circle-yellow service-circle"> 
+								<p id="inturrupt_count" class="service-label">0</p> 
+								<p class="service-label" >!</p> </div>
+							</div>
+
+							<div class="col-lg-4">
+								<div class="circle-big circle-red service-circle">
+								<p id="failed_count" class="service-label">0</p>
+								<p class="service-label" >Down</p> </div>
+							</div>
+						</div>
+					</div>
+
+					<!-- SPACING -->
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12">
+								<br/>
+								<h1>Success Ratio</h1>
+								<hr/>
+							</div>
+						</div>
+					</div>
+
+					<!-- BOTTOM ROW OF CIRCLES -->
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-4">
+								<h3 class="text-center">Week</h3>
+								<div class="circle-big circle-yellow success-circle">
+									<p class="success-label" >87%</p> 
+								</div>
+							</div>
+
+							<div class="col-lg-4">
+								<h3 class="text-center">Month</h3>
+								<div class="circle-big circle-green success-circle">
+									<p class="success-label" >99%</p> 
+								</div>
+							</div>
+
+							<div class="col-lg-4">
+								<h3 class="text-center">Year</h3>
+								<div class="circle-big circle-green success-circle">
+									<p class="success-label" >97%</p> 					
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- SPACING -->
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12">
+								<br/>
+								<br/>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+				<!-- ===== RIGHT PANEL =====  -->
+
+				<!-- KNOWN ERRORS SECTION -->
+				<div  class="col-lg-6">
+					
+					<div id="known_errors_table"> </div>
+					
+					<br/>
+					
+					<div style="position: absolute; bottom: 0; right: 0;">
+						<input type="button" value="-" class="button-minus" onclick="changeKnownErrorsLimit(-1)">
+						<input type="button" value="+" class="button-plus" onclick="changeKnownErrorsLimit(1)">
+					</div>
+				
+				</div>
+				
+			</div>
+
+			<hr/>
+
+			<!-- ================================================================================== -->
+
+			<div class="row">
+				<div class="col-lg-3">
+					<h1>Install Jobs</h1>
+				</div>
+			</div>
+
+			 <table id="installs_table" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+				<thead>
+					<tr>
+						<th class="th-sm">ID</th>
+						<th class="th-sm">Name</th>
+						<th class="th-sm">Client</th>
+						<th class="th-sm">Status</th>
+						<th class="th-sm">Completion Time</th>
+					</tr>
+				</thead>
+				<tbody id = "installs_table_body"/>		  
+			</table>
+	
+
+
+
+			<!-- ================================================================================== -->
+
+			<!-- START TEST DATA REPRESENTATION SECTION -->
+
+			<div class="col-lg-12">
+				<h1>Other Data</h1>
+				<hr/>
+				<br>
+				<div class="row middle">
+				<div class="circle-xsmall circle-green inline-circle"></div>
+				<p1>= SUCCESS</p1>
+				<div class="circle-xsmall circle-red inline-circle"></div>
+				<p1>= FAILURE</p1>
+				<div class="circle-xsmall circle-yellow inline-circle"></div>
+				<p1>= INTURRUPTED</p1>
+				<div class="circle-xsmall circle-neutral inline-circle"></div>
+				<p1>= NO STATUS</p1>
+			</div>
+			
+			<h3 id="red_green_table_title">alexandria</h3>
+			<table id="myTable" class="table table-sm" cellspacing="0" width="80%">
+				<thead>
+					<th class="">Version Name</th>
+					<th >1/30/2020</th>
+					<th >1/29/2020</th>
+					<th >1/28/2020</th>
+					<th >1/27/2020</th>
+					<th >1/26/2020</th>
+				</thead>
+				<tbody id = "red_green_body"></tbody>
+			</table>
+			</div>
+
+
+		</body>
+
+		<!-- ================================================================================== -->
+
+
+		<script>
+		//Debug mode T/F
+		const debug = true;
+		
+		//Internal limits for visual niceness
+		const knownErrorLimitLimit = 19;
+		const redGreenLimit = 6;
+
+		//Page states
+		var darkMode = false;
+		var knownErrorLimit = 8;
+
+		$(document).ready(function () {
+
+		    //immediately switch to dark mode
+		    lightSwitch();
+
+				//Draw everything
+		    redraw();
+
+		    //Redraw everything on a timer
+		    setInterval(function () {
+		        redraw()
+		    }, 500);
+
+		});
+
+		function redraw() {
+		    getAndDrawInstallsTable();
+				getAndDrawRedGreenTable();
+		    getAndDrawKnownErrors();
+				getAndDrawStatusCounts();
+		}
+		
+		function changeKnownErrorsLimit(amount){
+			var newLimit = knownErrorLimit + amount; 
+			if(newLimit >= 0 && newLimit <= knownErrorLimitLimit)
+				knownErrorLimit = newLimit;
+		}
+
+		function lightSwitch() {
+
+		    darkMode = (darkMode == false); //Toggle darkMode
+				
+		    //Redraw the javascript-generated HTML
+
+		    var table = document.getElementById("installs_table").classList.toggle("table-dark");
+
+		    redraw();
+
+		    //Set all elements to dark mode
+		    var tags = ["body", "h1", "tr", "th", "td", "p1", "h5"];
+		    for (var i = 0; i < tags.length; i++) {
+		        var elements = document.getElementsByTagName(tags[i]);
+		        for (var j = 0; j < elements.length; j++) {
+		            elements[j].classList.toggle("dark-mode");
+		        }
+		    }
+
+		}
+		
+		function getAndDrawStatusCounts() {
+		    //console.log("Refreshing...");
+		    $.getJSON("json/statusCounts.json", function (data) {
+		        var display_data = '';
+		        $.each(data, function (key, value) {
+								if(value.Status && value.Status == "SUCCESS")
+								{
+									$('#success_count').empty().append(value.count);
+								}
+								else if(value.Status && value.Status == "INTERRUPTED")
+								{
+									//$('#inturrupt_count_count').empty().append(value.count);
+								}
+								else if(value.Status && value.Status == "FAILED")
+								{
+									$('#failed_count').empty().append(value.count);
+								}
+								else if(!value.Status)
+								{
+									//Missing status
+									$('#inturrupt_count').empty().append(value.count);
+								}
+		        });
+		    });
+		}
+		
+
+		function getAndDrawInstallsTable() {
+		    //console.log("Refreshing...");
+		    $.getJSON("json/installTableData.json", function (data) {
+		        var display_data = '';
+		        $.each(data, function (key, value) {
+
+		            var tr_tag = '<tr class="';
+		            if (!value.Status || value.Status.toString().trim().toUpperCase() === "FAILED")
+		                tr_tag += 'failed-table-row ';
+
+		            if (darkMode)
+		                tr_tag += 'dark ';
+
+		            tr_tag += '">';
+
+		            var td_tag = '<td>';
+		            if (false)
+		                td_tag = '<td class="dark">';
+
+		            display_data += tr_tag;
+		            display_data += td_tag + value.ID + '</td>';
+		            display_data += td_tag + value.Name + '</td>';
+		            display_data += td_tag + value.ClientName + '</td>';
+		            display_data += td_tag + (value.Status ? value.Status : "") + '</td>';
+		            display_data += td_tag + prettyDate(value.EndTime, false) + '</td>';
+		            display_data += '</tr>';
+		        });
+		        $('#installs_table_body').empty().append(display_data);
+		    });
+		}
+		
+		function getAndDrawRedGreenTable() {
+		    //console.log("Refreshing...");
+				
+				var num_cols = 6;
+		    $.getJSON("json/redGreen.json", function (data) {
+		        var display_data = '';
+		        var cell_count = 0;
+						$.each(data, function (key, value) {
+					
+								if(cell_count/num_cols < redGreenLimit)
+								{
+									var tr_tag = '<tr>';
+									var td_tag = '<td>';
+									var circle_color = 'neutral';
+	
+									if (darkMode)
+									{
+										tr_tag = '<tr class="dark">';
+										td_tag = '<td class="dark">';
+									}
+											
+								if(cell_count%num_cols == 0)
+									{
+										display_data += tr_tag;
+										display_data += td_tag + value.ServerName + '</td>';
+									}
+								else
+									{
+										if (value.Status && value.Status.toString().trim().toUpperCase() === "SUCCESS")
+										{
+											circle_color = "green";
+										}
+										else if (value.Status && value.Status.toString().trim().toUpperCase() === "FAILED")
+										{
+											circle_color = "red";
+										}
+										else if (value.Status)
+										{
+											circle_color ="yellow";
+										}
+
+										display_data += td_tag + '<div class="circle-' + circle_color + ' circle-small"/>' + '</td>';
+		           
+										if(cell_count%num_cols == 0)
+											display_data += '</tr>';
+									
+									}
+
+								}
+								
+								cell_count++;
+		        });
+		        $('#red_green_body').empty().append(display_data);
+		    });
+		}
+		
+		
+		
+
+		function getAndDrawKnownErrors() {
+		    //console.log("Refreshing...");
+		    $.getJSON("json/recentFails.json", function (data) {
+		        var display_data = '';
+
+		        display_data = '<div class="border-n row">';
+		        display_data += '<div class="col-2">';
+		        display_data += '<h5 class="text-bold">Version</h5>';
+		        display_data += '</div>';
+		        display_data += '<div class="col-6">';
+		        display_data += '<h5 class="text-bold">Server Name</h5>';
+		        display_data += '</div>';
+		        display_data += '<div class="col-4">';
+		        display_data += '<h5 class="text-bold">Time of Failure</h5>';
+		        display_data += '</div>';
+
+						var row_count = 1;
+		        $.each(data, function (key, value) {
+								
+								if(row_count <= knownErrorLimit)
+								{
+									var op = "";
+									var wide_div_tag = '<div class="col-6';
+									if (darkMode)
+											op = ' dark';
+	
+									var p1_tag = '<p1>';
+									if (darkMode)
+											p1_tag = '<p1 class="dark">';
+	
+									display_data += '<div class="col-2' + op + '">' + p1_tag + value.PCIInstallVersion + '</p1></div>';
+									display_data += '<div class="col-6' + op + '">' + p1_tag + value.ServerName + '</p1></div>';
+	
+	
+									display_data += '<div class="col-4' + op + '">' + p1_tag + prettyDate(value.EndTime, false) + '</p1></div>';
+								}
+								row_count++;
+		        });
+
+		        display_data += '</div>';
+
+		        $('#known_errors_table').empty().append(display_data);
+		    });
+
+		}
+		
+		function prettyDate(date, seconds) {
+		
+		if(!date) return "";
+			var t = date.split(/[-T:.Z]/);
+		  var d = new Date(Date.UTC(t[0], t[1] - 1, t[2], t[3], t[4], t[5]));
+		  const dtf = new Intl.DateTimeFormat('en', {
+		              year: 'numeric',
+		              month: 'short',
+		              day: '2-digit'
+		          })
+		          const[{
+		                  value: mo
+		              }, , {
+		                  value: da
+		              }, , {
+		                  value: ye
+		              }
+		          ] = dtf.formatToParts(d)
+							
+							var prettyDate = `${da}-${mo}-${ye} ${t[3]}:${t[4]}`;
+							if(seconds) prettyDate += `:${t[5]}.${t[6]}`;
+							
+							return prettyDate;
+		}
+
+		
+	</script>
+
+	</html>

@@ -1,0 +1,8 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install REYES burnt-sienna-23v</JOB_NAME><START_TIME>Fri Dec 14 11:41:06 EST 2018</START_TIME><TARGET_SERVERS>burnt-sienna-23v</TARGET_SERVERS><PCI_VERSION>6.3.2.317</PCI_VERSION><DATABASE_VERSION>18.1.2.352</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.2.352</PCI_INSTALL_VERSION><LICENSE_GROUP>SALESFORCE</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install REYES burnt-sienna-23v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 12:25:58 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install REYES burnt-sienna-23v</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 14 12:27:11 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install REYES burnt-sienna-23v</END_JOB_NAME><END_TIME>Fri Dec 14 12:29:37 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

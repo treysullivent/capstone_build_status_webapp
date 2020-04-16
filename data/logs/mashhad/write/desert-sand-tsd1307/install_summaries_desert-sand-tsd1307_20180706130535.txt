@@ -1,0 +1,46 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 10:32:19 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 10:53:17 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 10:53:17 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 11:13:56 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 11:14:05 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 11:23:02 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 11:23:02 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 11:30:15 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jul 06 11:30:24 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 06 11:35:44 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jul 06 11:37:02 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 11:38:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 11:38:59 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:55:11 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:55:43 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:55:43 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:56:04 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:56:13 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:56:13 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:56:51 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:56:59 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:56:59 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:58:01 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:58:09 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:58:09 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:58:18 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:58:27 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:58:27 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Fri Jul 06 12:59:11 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>18.1.1.2</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.44</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jul 06 12:59:20 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Fri Jul 06 12:59:20 CDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

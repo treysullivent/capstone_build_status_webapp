@@ -1,0 +1,40 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download RUSSELL green-tosts-rx04</JOB_NAME><START_TIME>Thu Mar 28 13:32:18 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx04</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download RUSSELL green-tosts-rx04</END_JOB_NAME><END_TIME>Thu Mar 28 13:36:34 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx04</JOB_NAME><START_TIME>Thu Mar 28 13:37:51 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx04</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 13:45:27 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 13:59:33 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx04</END_JOB_NAME><END_TIME>Thu Mar 28 14:02:57 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx05</JOB_NAME><START_TIME>Thu Mar 28 13:37:52 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx05</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 14:09:46 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 14:21:03 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx05</END_JOB_NAME><END_TIME>Thu Mar 28 14:24:29 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx06</JOB_NAME><START_TIME>Thu Mar 28 13:37:53 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx06</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 14:30:45 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 14:41:46 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx06</END_JOB_NAME><END_TIME>Thu Mar 28 14:45:02 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx01</JOB_NAME><START_TIME>Thu Mar 28 13:37:54 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx01</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 14:51:56 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 15:02:56 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx01</END_JOB_NAME><END_TIME>Thu Mar 28 15:06:25 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx02</JOB_NAME><START_TIME>Thu Mar 28 13:37:55 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx02</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 15:11:31 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 15:22:42 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx02</END_JOB_NAME><END_TIME>Thu Mar 28 15:26:08 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL green-tosts-rx03</JOB_NAME><START_TIME>Thu Mar 28 13:37:56 PDT 2019</START_TIME><TARGET_SERVERS>green-tosts-rx03</TARGET_SERVERS><PCI_VERSION>18.2.5.478</PCI_VERSION><DATABASE_VERSION>18.2.5.478</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.488</PCI_INSTALL_VERSION><LICENSE_GROUP>PFIZER </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 15:32:25 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL green-tosts-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 28 15:43:38 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL green-tosts-rx03</END_JOB_NAME><END_TIME>Thu Mar 28 15:46:55 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

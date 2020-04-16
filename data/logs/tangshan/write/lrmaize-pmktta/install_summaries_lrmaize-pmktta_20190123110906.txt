@@ -1,0 +1,28 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><START_TIME>Wed Jan 23 09:46:01 CST 2019</START_TIME><TARGET_SERVERS>carnation-pink-ta</TARGET_SERVERS><PCI_VERSION>18.2.1.319</PCI_VERSION><DATABASE_VERSION>18.2.1.319</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.319</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><START_TIME>Wed Jan 23 09:46:06 CST 2019</START_TIME><TARGET_SERVERS>carnation-pink-ta</TARGET_SERVERS><PCI_VERSION>18.2.4.425</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.425</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><TYPE>ERROR</TYPE><TIME>Wed Jan 23 09:49:15 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JORDAN lrmaize-pmktta</END_JOB_NAME><END_TIME>Wed Jan 23 09:49:15 CST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Release Download JORDAN lrmaize-pmktta</JOB_NAME><START_TIME>Wed Jan 23 10:03:24 CST 2019</START_TIME><TARGET_SERVERS>carnation-pink-ta</TARGET_SERVERS><PCI_VERSION>18.2.4.425</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.436</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download JORDAN lrmaize-pmktta</END_JOB_NAME><END_TIME>Wed Jan 23 10:05:05 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><START_TIME>Wed Jan 23 10:07:08 CST 2019</START_TIME><TARGET_SERVERS>carnation-pink-ta</TARGET_SERVERS><PCI_VERSION>18.2.4.425</PCI_VERSION><DATABASE_VERSION>18.2.4.415</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.436</PCI_INSTALL_VERSION><LICENSE_GROUP>APPLE </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jan 23 10:28:43 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jan 23 10:29:03 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jan 23 10:30:27 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jan 23 10:30:28 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JORDAN lrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jan 23 10:31:37 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JORDAN lrmaize-pmktta</END_JOB_NAME><END_TIME>Wed Jan 23 10:31:39 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_END><END_JOB_NAME>GM Install Turner lrmaize-pmktta</END_JOB_NAME><END_TIME>Wed Jan 23 10:33:47 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><START_TIME>Wed Jan 23 10:34:13 CST 2019</START_TIME><TARGET_SERVERS>carnation-pink-ta</TARGET_SERVERS><PCI_VERSION>18.2.1.319</PCI_VERSION><DATABASE_VERSION>18.2.1.319</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.325</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Jan 23 10:57:08 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install Turner lrmaize-pmktta</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Jan 23 10:58:17 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install Turner lrmaize-pmktta</END_JOB_NAME><END_TIME>Wed Jan 23 11:01:27 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,14 @@
+You can log into the database with the following information:
+	database: pci_database
+	username: root
+	password: root
+	
+The following command will log you in with the credentials file we have stored:
+	
+	mysql --defaults-extra-file=~/database/credentials/root.cnf pci_database
+
+Alternatively, you can enter the following command and type the password, 'root'.
+
+	mysql -h localhost -u root -p pci_database
+
+All mySQL commands must be ended with a semi-colon (;).

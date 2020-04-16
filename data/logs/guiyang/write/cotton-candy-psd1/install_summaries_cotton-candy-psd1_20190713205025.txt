@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><START_TIME>Sat Jul 13 17:55:47 EDT 2019</START_TIME><TARGET_SERVERS>cotton-candy-psd1</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.0.0.618</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install PALMER cotton-candy-psd1</END_JOB_NAME><END_TIME>Sat Jul 13 18:40:31 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><START_TIME>Sat Jul 13 18:49:20 EDT 2019</START_TIME><TARGET_SERVERS>cotton-candy-psd1</TARGET_SERVERS><PCI_VERSION>6.0.0.618</PCI_VERSION><DATABASE_VERSION>6.0.0.618</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.351</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sat Jul 13 19:24:15 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sat Jul 13 19:33:28 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PALMER cotton-candy-psd1</JOB_NAME><TYPE>INFO</TYPE><TIME>Sat Jul 13 19:44:23 EDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PALMER cotton-candy-psd1</END_JOB_NAME><END_TIME>Sat Jul 13 19:50:27 EDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

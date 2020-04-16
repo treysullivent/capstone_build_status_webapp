@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><START_TIME>Fri Nov 23 09:32:53 MST 2018</START_TIME><TARGET_SERVERS>pine-green-lc11</TARGET_SERVERS><PCI_VERSION>18.2.1.301</PCI_VERSION><DATABASE_VERSION>18.2.1.301</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><START_TIME>Fri Nov 23 09:32:59 MST 2018</START_TIME><TARGET_SERVERS>green-blue-lc11</TARGET_SERVERS><PCI_VERSION>18.2.1.301</PCI_VERSION><DATABASE_VERSION>18.2.1.301</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.306</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:45:47 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:46:34 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:46:55 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:47:04 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 23 09:47:44 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:48:07 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Nov 23 09:48:30 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install STEPHENS green-blue-lc11</END_JOB_NAME><END_TIME>Fri Nov 23 09:50:00 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 23 09:50:37 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARPENTER pine-green-lc11</END_JOB_NAME><END_TIME>Fri Nov 23 09:53:08 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,37 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download WRIGHT gold-fusion-s-8773</JOB_NAME><START_TIME>Mon Jun 03 13:17:05 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8773</TARGET_SERVERS><PCI_VERSION>19.1.2.273</PCI_VERSION><DATABASE_VERSION>19.1.2.273</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download WRIGHT gold-fusion-s-8773</END_JOB_NAME><END_TIME>Mon Jun 03 13:18:26 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract WRIGHT</JOB_NAME><START_TIME>Mon Jun 03 13:20:51 CDT 2019</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>19.1.2.273</PCI_VERSION><DATABASE_VERSION>19.1.2.273</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><START_TIME>Mon Jun 03 14:06:34 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8773</TARGET_SERVERS><PCI_VERSION>19.1.2.273</PCI_VERSION><DATABASE_VERSION>19.1.2.273</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:24:21 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:24:33 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:24:51 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:25:47 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:26:00 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:26:16 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:29:00 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:29:37 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jun 03 14:30:52 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8773</END_JOB_NAME><END_TIME>Mon Jun 03 14:35:26 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><START_TIME>Mon Jun 03 14:06:34 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8772</TARGET_SERVERS><PCI_VERSION>19.1.2.273</PCI_VERSION><DATABASE_VERSION>19.1.2.273</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jun 03 14:55:31 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 14:55:33 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8772</END_JOB_NAME><END_TIME>Mon Jun 03 14:55:33 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><START_TIME>Mon Jun 03 14:06:34 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8771</TARGET_SERVERS><PCI_VERSION>19.1.2.273</PCI_VERSION><DATABASE_VERSION>19.1.2.273</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.275</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Jun 03 15:13:42 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Jun 03 15:13:43 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install WRIGHT gold-fusion-s-8771</END_JOB_NAME><END_TIME>Mon Jun 03 15:13:44 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

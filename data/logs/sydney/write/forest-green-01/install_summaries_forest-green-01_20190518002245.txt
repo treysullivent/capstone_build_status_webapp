@@ -1,0 +1,20 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><START_TIME>Fri May 17 15:38:49 PDT 2019</START_TIME><TARGET_SERVERS>forest-green-01</TARGET_SERVERS><PCI_VERSION>6.3.5.301</PCI_VERSION><DATABASE_VERSION>6.3.5.301</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.5.371</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri May 17 15:39:04 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri May 17 15:39:32 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install COOK forest-green-01</END_JOB_NAME><END_TIME>Fri May 17 15:39:32 PDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><START_TIME>Fri May 17 16:33:55 PDT 2019</START_TIME><TARGET_SERVERS>forest-green-01</TARGET_SERVERS><PCI_VERSION>6.3.5.301</PCI_VERSION><DATABASE_VERSION>6.3.5.301</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.5.371</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri May 17 16:34:10 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri May 17 16:54:10 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 17 16:54:45 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install COOK forest-green-01</END_JOB_NAME><END_TIME>Fri May 17 16:54:47 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install COOK forest-green-02</JOB_NAME><START_TIME>Fri May 17 16:33:55 PDT 2019</START_TIME><TARGET_SERVERS>forest-green-02</TARGET_SERVERS><PCI_VERSION>6.3.5.301</PCI_VERSION><DATABASE_VERSION>6.3.5.301</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.5.371</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install COOK forest-green-02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri May 17 17:12:57 PDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install COOK forest-green-02</END_JOB_NAME><END_TIME>Fri May 17 17:12:59 PDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,28 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL beaver-rx01</JOB_NAME><START_TIME>Tue Jun 18 08:28:36 CDT 2019</START_TIME><TARGET_SERVERS>beaver-rx01</TARGET_SERVERS><PCI_VERSION>18.1.5.357</PCI_VERSION><DATABASE_VERSION>18.1.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 08:35:08 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jun 18 08:48:37 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 08:49:11 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL beaver-rx01</END_JOB_NAME><END_TIME>Tue Jun 18 08:53:09 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL beaver-rx02</JOB_NAME><START_TIME>Tue Jun 18 08:28:37 CDT 2019</START_TIME><TARGET_SERVERS>beaver-rx02</TARGET_SERVERS><PCI_VERSION>18.1.5.357</PCI_VERSION><DATABASE_VERSION>18.1.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 08:55:08 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 09:05:51 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL beaver-rx02</END_JOB_NAME><END_TIME>Tue Jun 18 09:09:18 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL beaver-rx03</JOB_NAME><START_TIME>Tue Jun 18 08:28:38 CDT 2019</START_TIME><TARGET_SERVERS>beaver-rx03</TARGET_SERVERS><PCI_VERSION>18.1.5.357</PCI_VERSION><DATABASE_VERSION>18.1.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 09:11:26 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 09:22:53 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL beaver-rx03</END_JOB_NAME><END_TIME>Tue Jun 18 09:26:35 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL beaver-rx04</JOB_NAME><START_TIME>Tue Jun 18 08:28:39 CDT 2019</START_TIME><TARGET_SERVERS>beaver-rx04</TARGET_SERVERS><PCI_VERSION>18.1.5.357</PCI_VERSION><DATABASE_VERSION>18.1.5.357</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.433</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 09:28:39 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL beaver-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jun 18 09:40:12 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL beaver-rx04</END_JOB_NAME><END_TIME>Tue Jun 18 09:43:59 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

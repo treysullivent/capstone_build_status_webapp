@@ -1,0 +1,14 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><START_TIME>Mon Feb 26 09:32:07 MST 2018</START_TIME><TARGET_SERVERS>pine-green-lc11</TARGET_SERVERS><PCI_VERSION>6.3.1.357</PCI_VERSION><DATABASE_VERSION>6.3.1.357</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.4.273</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Feb 26 10:06:15 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install CARPENTER pine-green-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 26 10:07:04 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install CARPENTER pine-green-lc11</END_JOB_NAME><END_TIME>Mon Feb 26 10:08:57 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><START_TIME>Mon Feb 26 10:11:56 MST 2018</START_TIME><TARGET_SERVERS>green-blue-lc11</TARGET_SERVERS><PCI_VERSION>6.3.1.357</PCI_VERSION><DATABASE_VERSION>6.3.1.357</DATABASE_VERSION><PCI_INSTALL_VERSION>6.3.4.273</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Feb 26 10:35:21 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install STEPHENS green-blue-lc11</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 26 10:36:10 MST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install STEPHENS green-blue-lc11</END_JOB_NAME><END_TIME>Mon Feb 26 10:38:03 MST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

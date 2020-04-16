@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><START_TIME>Tue Oct 15 11:06:25 MDT 2019</START_TIME><TARGET_SERVERS>salmon-dev-rx01</TARGET_SERVERS><PCI_VERSION>19.1.0.434</PCI_VERSION><DATABASE_VERSION>19.1.0.434</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.434</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Oct 15 11:07:34 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Oct 15 11:21:24 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Oct 15 11:22:54 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Oct 15 11:24:22 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL salmon-dev-rx01</END_JOB_NAME><END_TIME>Tue Oct 15 11:28:56 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><START_TIME>Tue Oct 15 11:06:28 MDT 2019</START_TIME><TARGET_SERVERS>salmon-dev-rx02</TARGET_SERVERS><PCI_VERSION>19.1.0.434</PCI_VERSION><DATABASE_VERSION>19.1.0.434</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.434</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Oct 15 11:29:28 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Oct 15 11:39:06 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL salmon-dev-rx02</END_JOB_NAME><END_TIME>Tue Oct 15 11:42:16 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

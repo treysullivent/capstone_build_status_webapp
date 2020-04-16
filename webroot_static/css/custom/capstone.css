@@ -1,0 +1,305 @@
+html {
+	height: 100%;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+
+.dark-mode {
+  background-color: #141d26;
+  color: white;
+}
+
+.dark {
+	color: white;
+}
+
+tr.failed-table-row {
+	background-color: #ffcccb !important;
+}
+
+tr.failed-table-row.dark {
+	background-color: #940909 !important;
+}
+
+
+/* FORMATTING */
+.middle {
+  	position: absolute;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+/* --- SHAPES --- */
+
+.border-n{
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 15px;
+	padding: 5px;
+}
+
+
+.border-c{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 25px; 
+}
+
+.circle-green{
+    background: #238823;
+    border-radius: 50%;
+}
+
+.circle-yellow{
+
+    background: #FFBF00;
+    border-radius: 50%;
+}
+
+.circle-red{
+    background: #D2222D;
+    border-radius: 50%;
+}
+
+.circle-neutral{
+
+    background: #D3D3D3;
+    border-radius: 50%;
+}
+
+.circle-xsmall{
+	padding: 5px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.circle-small{
+	padding: 10px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+.circle-big {
+    padding: 20px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+		color: black;
+}
+
+.service-circle{
+	text-align: center;
+	vertical-align: middle;
+
+
+	font-size:40px;
+
+	margin:0;
+	margin-top: 50px;
+
+}
+.success-label,
+.service-label{
+	font-family:courier;
+  font-weight: bold;
+	margin:0;
+}
+
+
+.success-circle{
+
+	margin-top: 20px;
+  font-size: 50px;
+	font-family:courier;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 130px;
+}
+
+
+.inline-circle{
+	margin-left: 15px;
+	margin-right: 5px;
+	margin-top: 0px;
+}
+
+
+
+
+
+
+/* --- COLORS --- */
+
+.bg-bad
+{
+  background: #ff6600;
+}
+
+.bg-fav
+{
+  background: #cc33ff;
+}
+
+.bg-primary-dark
+{
+  background: #0000cc;
+}
+
+/* --- FONTS --- */
+
+.title{
+  padding-top: 50px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/* --- CUSTOM COLORS --- */
+.bg-light{
+	background-color: #bfbfbf;
+}
+
+
+/* --- TABLE STYLE --- */
+
+.wide-table {
+   line-height: 50px;
+   min-height: 50px;
+   height: 50px;
+}
+
+/* TESTING AREA */
+
+.cb-toggle{
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 50px;
+  background:#2ecc71;
+}
+
+.switch {
+  position: relative; 
+  /* position: fixed; */
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #2ecc71;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #e74c3c;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #e74c3c;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+/* Plus Minus*/
+
+input[type="button"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+.input-group input[type='button'] {
+  background-color: #eeeeee;
+  min-width: 38px;
+  width: auto;
+  transition: all 300ms ease;
+}
+
+.button-minus, .button-plus {
+	background-color: #eeeeee;
+	font-size: 20px;
+  font-weight: bold;
+  height: 38px;
+  padding: 0;
+  width: 38px;
+	border-radius: 15px;
+	margin-left: 10px;
+	border: none;
+}
+
+
+
+
+
+
+
+
+

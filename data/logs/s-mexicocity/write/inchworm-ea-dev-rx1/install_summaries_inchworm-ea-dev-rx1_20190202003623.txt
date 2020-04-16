@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download RUSSELL inchworm-ea-dev-rx1</JOB_NAME><START_TIME>Fri Feb 01 14:56:02 CST 2019</START_TIME><TARGET_SERVERS>inchworm-ea-dev-rx1</TARGET_SERVERS><PCI_VERSION>18.2.4.432</PCI_VERSION><DATABASE_VERSION>18.2.4.432</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.438</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download RUSSELL inchworm-ea-dev-rx1</END_JOB_NAME><END_TIME>Fri Feb 01 15:02:47 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx1</JOB_NAME><START_TIME>Fri Feb 01 15:04:25 CST 2019</START_TIME><TARGET_SERVERS>inchworm-ea-dev-rx1</TARGET_SERVERS><PCI_VERSION>18.2.4.432</PCI_VERSION><DATABASE_VERSION>18.2.4.432</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.438</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx1</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Feb 01 15:21:29 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx1</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Feb 01 15:27:55 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx1</END_JOB_NAME><END_TIME>Fri Feb 01 15:36:29 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx2</JOB_NAME><START_TIME>Fri Feb 01 15:04:26 CST 2019</START_TIME><TARGET_SERVERS>inchworm-ea-dev-rx2</TARGET_SERVERS><PCI_VERSION>18.2.4.432</PCI_VERSION><DATABASE_VERSION>18.2.4.432</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.4.438</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Feb 01 15:56:48 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx2</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Feb 01 16:02:13 CST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL inchworm-ea-dev-rx2</END_JOB_NAME><END_TIME>Fri Feb 01 16:06:51 CST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><START_TIME>Fri Jan 18 12:55:49 EST 2019</START_TIME><TARGET_SERVERS>green-yellow-363v</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>6.2.2.291</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 18 13:40:55 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jan 18 13:46:57 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Jan 18 13:48:59 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PAYne green-yellow-363v</END_JOB_NAME><END_TIME>Fri Jan 18 13:49:00 EST 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><START_TIME>Fri Jan 18 13:58:09 EST 2019</START_TIME><TARGET_SERVERS>green-yellow-363v</TARGET_SERVERS><PCI_VERSION>6.2.2.291</PCI_VERSION><DATABASE_VERSION>6.2.2.291</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.2.263</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Jan 18 14:08:07 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install PAYne green-yellow-363v</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Jan 18 14:11:30 EST 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install PAYne green-yellow-363v</END_JOB_NAME><END_TIME>Fri Jan 18 14:11:33 EST 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

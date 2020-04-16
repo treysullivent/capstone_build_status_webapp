@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en">
+
+<style type="text/css">
+
+</style>
+
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+
+    <link rel="stylesheet" href="capstone.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- sortable tables -->
+    <script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="switch.js"></script>
+
+    
+    <!-- -->
+
+  </head>
+
+  <body style="color: black; background-color: white;">
+
+  <div class="container">
+  	<div class="row">
+  		<div class="col-lg-12 title">
+  			<h1>Capstone - PCI </h1>
+  			<hr>
+  		</div>
+  	</div> <!-- row -->
+  		
+
+<!-- ================================================================================== -->
+
+  	<!-- GRAPH SECTION -->
+
+  	<div class="row">
+  		<div class="col-lg-6">
+  			<h1>Scheduled Installs</h1>
+  			<div class="border-n row">
+
+  				<div class="col-lg-4">
+  					<p1 class="text-center font-weight-bold">Build #</p1>
+  				</div>
+  				<div class="col-lg-4">
+  					<p1 class="text-center font-weight-bold">Build Release Time</p1>
+  				</div>
+  				<div class="col-lg-4">
+  					<p1 class="text-center font-weight-bold">Info</p1>
+  				</div>
+
+  				<div class="col-lg-4">
+  					19.0.2
+  				</div>
+  				<div class="col-lg-4">
+  					2/1/2020
+  				</div>
+  				<div class="col-lg-4">
+  					Here we can have a brief description of what this build is for
+  				</div>
+
+  				<div class="col-lg-4">
+  					19.0.3
+  				</div>
+  				<div class="col-lg-4">
+  					2/2/2020
+  				</div>
+  				<div class="col-lg-4">
+  					or any necessary info taken from the log files
+  				</div>
+  				
+  			</div>
+  		</div>
+
+  		<div class="col-lg-6">
+  			<h2>Builds</h2>
+  			<hr>
+  			<div class="service_circle" style="background: #00b33c;">
+  				65 <br>Up
+	        </div>
+	        <div class="service_circle">
+  				0 Issue
+	        </div>
+	        <div class="service_circle" style="background: #ff3333">
+  				5 Down
+	        </div>
+
+  		</div>
+  	</div>
+
+  	<hr>
+
+<!-- ================================================================================== -->
+
+
+  	<div class="row">
+  		<!-- PANEL SECTION -->
+
+  		<div class="col-lg-6">
+  			<h1>Known Erros</h1>
+  			<div class="border-n row">
+
+  				<div class="font-weight-bold col-lg-6">
+  					Build
+  				</div>
+  				<div class="font-weight-bold col-lg-6">
+  					Status
+  				</div>
+
+  				<div class="col-lg-6">
+  					18.1.1
+  				</div>
+  				<div class="col-lg-6">
+  					Known
+  				</div>
+  				<div class="col-lg-6">
+  					18.1.2
+  				</div>
+  				<div class="col-lg-6">
+  					out
+  				</div>
+  				
+  			</div>
+  		</div>
+
+<!-- ================================================================================== -->
+
+
+  	</div> 
+
+  	<hr>
+
+  	<div class="row">
+	  	<div class="col-lg-3">
+	  			<h1>Build History</h1>
+	  		</div>
+			<table id="myTable" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+			  <thead>
+			    <tr>
+			      <th onclick="sortTable(0)" class="th-sm">Version Name
+			      </th>
+			      <th onclick="sortTable(1)" class="th-sm">Client
+			      </th>
+			      <th onclick="sortTable(2)" class="th-sm">Status
+			      </th>
+			      <th onclick="sortTable(3)" class="th-sm">Time of Install
+			      </th>
+			    </tr>
+			  </thead>
+			  <tbody id = "main_table">
+          <!-- kano -->
+        
+			  </tbody>
+			  
+			</table>
+	  	</div>
+	
+
+
+<!-- ================================================================================== -->
+<!-- START TEST DATA REPRESENTATION SECTION -->
+
+<!-- ALEXANDRIA TABLE -->
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Optional representation Of Data</h1>
+      <hr>
+    </div>
+    <div class="col-lg-12">
+      <p1 class="middle">X success X Known Error X Failure</p1>
+    </div>
+    <div class="col-lg-6">
+      <h3>alexandria</h3>
+    </div>
+    <div class="col-lg-12">
+      <table id="myTable" class="table table-sm" cellspacing="0" width="80%">
+        <thead>
+          <th class="">Version Name</th>
+          <th >1/26/2020</th>
+          <th >1/27/2020</th>
+          <th >1/28/2020</th>
+          <th >1/29/2020</th>
+          <th >1/30/2020</th>
+
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-test">Brown-9tyjm22</td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Fuchsia-01</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Yellow-pe0033a</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Yellow-qe0033a</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Yellow-te0030</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Yellow-te0033</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- HARBIN TABLE -->
+
+  <div class="row">
+    <div class="col-lg-6">
+      <h3>dalian</h3>
+    </div>
+    <div class="col-lg-12">
+      <table id="myTable" class="table table-sm" cellspacing="0" width="80%">
+        <thead>
+          <th class="">Version Name</th>
+          <th >1/26/2020</th>
+          <th >1/27/2020</th>
+          <th >1/28/2020</th>
+          <th >1/29/2020</th>
+          <th >1/30/2020</th> 
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-test">Blue-bell-1</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Blue-bell-2</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Blue-bell-4</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Brown-1qxjj72</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Brown-57flw52</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Brown-58dxwz1</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Brown-69rhmc2</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+          <tr>
+            <td class="td-test">Brown-cygjmc2</td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+          </tr>
+          <tr>
+            <td class="td-test"Burnt-orange-1></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-red"></td>
+            <td><div class="circle-green"></td>
+            <td><div class="circle-green"></td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  </div>
+</body>
+
+
+</html>
+
+<script>
+  var display_data = '';
+  //var display_data = '';
+  $(document).ready(function(){
+    //json not working correctly for some reason
+    $.getJSON("data.json", function(data){
+      $.each(data, function(key, value){
+        //console.log("running");
+        display_data += '<tr>';
+        display_data += '<td>' + value.Name+ '</td>';
+        display_data += '<td>' + 'client'+ '</td>';
+        display_data += '<td>' + value.Status+ '</td>';
+        display_data += '<td>' + value.StartTime+ '</td>';
+        display_data += '</tr>';
+        //console.log(display_data);
+      });
+      $('#main_table').append(display_data);
+    });
+   
+  });
+
+</script>

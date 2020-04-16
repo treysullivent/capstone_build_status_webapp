@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install DANIELS cidwinbrown-q5</JOB_NAME><START_TIME>Mon Feb 18 14:34:42 GMT-05:00 2019</START_TIME><TARGET_SERVERS>metallic-seaweed-q5</TARGET_SERVERS><PCI_VERSION>18.1.1.68</PCI_VERSION><DATABASE_VERSION>18.1.1.68</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.68</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS cidwinbrown-q5</JOB_NAME><TYPE>WARNING</TYPE><TIME>Mon Feb 18 15:23:22 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS cidwinbrown-q5</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 18 15:24:20 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DANIELS cidwinbrown-q5</END_JOB_NAME><END_TIME>Mon Feb 18 15:27:12 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install DANIELS metallic-seaweed-qapp3</JOB_NAME><START_TIME>Mon Feb 18 14:34:47 GMT-05:00 2019</START_TIME><TARGET_SERVERS>metallic-seaweed-qapp3</TARGET_SERVERS><PCI_VERSION>18.1.1.68</PCI_VERSION><DATABASE_VERSION>18.1.1.68</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.68</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS metallic-seaweed-qapp3</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 18 15:36:16 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS metallic-seaweed-qapp3</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 18 16:03:19 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DANIELS metallic-seaweed-qapp3</END_JOB_NAME><END_TIME>Mon Feb 18 16:07:12 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install DANIELS metallic-seaweed-q1</JOB_NAME><START_TIME>Mon Feb 18 14:34:52 GMT-05:00 2019</START_TIME><TARGET_SERVERS>metallic-seaweed-q1</TARGET_SERVERS><PCI_VERSION>18.1.1.68</PCI_VERSION><DATABASE_VERSION>18.1.1.68</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.68</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS metallic-seaweed-q1</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 18 16:26:18 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DANIELS metallic-seaweed-q1</END_JOB_NAME><END_TIME>Mon Feb 18 16:28:20 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install DANIELS metallic-seaweed-q2</JOB_NAME><START_TIME>Mon Feb 18 14:34:57 GMT-05:00 2019</START_TIME><TARGET_SERVERS>metallic-seaweed-q2</TARGET_SERVERS><PCI_VERSION>18.1.1.68</PCI_VERSION><DATABASE_VERSION>18.1.1.68</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.68</PCI_INSTALL_VERSION><LICENSE_GROUP>MICROSOFT </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install DANIELS metallic-seaweed-q2</JOB_NAME><TYPE>INFO</TYPE><TIME>Mon Feb 18 16:48:01 GMT-05:00 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install DANIELS metallic-seaweed-q2</END_JOB_NAME><END_TIME>Mon Feb 18 16:50:18 GMT-05:00 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

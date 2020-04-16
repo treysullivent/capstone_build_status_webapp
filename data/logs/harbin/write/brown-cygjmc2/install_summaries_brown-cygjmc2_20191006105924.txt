@@ -1,0 +1,7 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install BOYD brown-cygjmc2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Sun Oct 06 10:46:48 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install BOYD brown-cygjmc2</JOB_NAME><TYPE>INFO</TYPE><TIME>Sun Oct 06 10:47:25 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install BOYD brown-cygjmc2</END_JOB_NAME><END_TIME>Sun Oct 06 10:47:26 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

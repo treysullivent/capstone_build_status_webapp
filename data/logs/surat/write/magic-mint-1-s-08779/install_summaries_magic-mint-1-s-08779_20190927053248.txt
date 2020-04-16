@@ -1,0 +1,22 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><START_TIME>Thu Sep 26 09:19:59 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08779</TARGET_SERVERS><PCI_VERSION>19.1.2.285</PCI_VERSION><DATABASE_VERSION>18.2.2.274</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 26 09:41:45 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 26 09:42:37 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 26 09:45:17 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Sep 26 09:45:25 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08779</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 26 09:52:23 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08779</END_JOB_NAME><END_TIME>Thu Sep 26 09:56:30 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08778</JOB_NAME><START_TIME>Thu Sep 26 09:19:59 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08778</TARGET_SERVERS><PCI_VERSION>19.1.2.285</PCI_VERSION><DATABASE_VERSION>18.2.2.274</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08778</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 26 10:20:48 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08778</END_JOB_NAME><END_TIME>Thu Sep 26 10:25:18 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install HILL magic-mint-1-s-08777</JOB_NAME><START_TIME>Thu Sep 26 09:19:59 CDT 2019</START_TIME><TARGET_SERVERS>magic-mint-1-s-08777</TARGET_SERVERS><PCI_VERSION>19.1.2.285</PCI_VERSION><DATABASE_VERSION>18.2.2.274</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.2.285</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install HILL magic-mint-1-s-08777</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Sep 26 10:50:45 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install HILL magic-mint-1-s-08777</END_JOB_NAME><END_TIME>Thu Sep 26 10:55:14 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

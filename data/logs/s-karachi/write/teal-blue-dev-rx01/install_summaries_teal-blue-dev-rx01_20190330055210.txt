@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Release Download russell teal-blue-dev-rx01</JOB_NAME><START_TIME>Fri Mar 29 13:00:44 MDT 2019</START_TIME><TARGET_SERVERS>teal-blue-dev-rx01</TARGET_SERVERS><PCI_VERSION>18.1.3.280</PCI_VERSION><DATABASE_VERSION>18.1.3.280</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.402</PCI_INSTALL_VERSION><LICENSE_GROUP>Visa </LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Release Download russell teal-blue-dev-rx01</END_JOB_NAME><END_TIME>Fri Mar 29 13:02:47 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell teal-blue-dev-rx01</JOB_NAME><START_TIME>Fri Mar 29 13:25:38 MDT 2019</START_TIME><TARGET_SERVERS>teal-blue-dev-rx01</TARGET_SERVERS><PCI_VERSION>18.1.3.280</PCI_VERSION><DATABASE_VERSION>18.1.3.280</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.402</PCI_INSTALL_VERSION><LICENSE_GROUP>Visa </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell teal-blue-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 29 13:42:04 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell teal-blue-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 29 13:52:18 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell teal-blue-dev-rx01</END_JOB_NAME><END_TIME>Fri Mar 29 13:55:39 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell teal-blue-dev-rx03</JOB_NAME><START_TIME>Fri Mar 29 13:25:39 MDT 2019</START_TIME><TARGET_SERVERS>teal-blue-dev-rx03</TARGET_SERVERS><PCI_VERSION>18.1.3.280</PCI_VERSION><DATABASE_VERSION>18.1.3.280</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.1.402</PCI_INSTALL_VERSION><LICENSE_GROUP>Visa </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell teal-blue-dev-rx03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 29 14:14:11 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell teal-blue-dev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 29 14:19:09 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell teal-blue-dev-rx03</END_JOB_NAME><END_TIME>Fri Mar 29 14:23:15 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

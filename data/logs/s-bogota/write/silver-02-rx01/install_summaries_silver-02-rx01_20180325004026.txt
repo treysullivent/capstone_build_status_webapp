@@ -1,0 +1,4 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-02-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Sun Mar 25 00:40:05 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+</SUMMARIES>

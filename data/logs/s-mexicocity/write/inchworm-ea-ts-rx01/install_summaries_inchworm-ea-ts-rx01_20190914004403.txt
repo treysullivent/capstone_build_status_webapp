@@ -1,0 +1,5 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL inchworm-ea-ts-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Sep 13 10:29:51 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL inchworm-ea-ts-rx04</END_JOB_NAME><END_TIME>Fri Sep 13 10:33:27 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

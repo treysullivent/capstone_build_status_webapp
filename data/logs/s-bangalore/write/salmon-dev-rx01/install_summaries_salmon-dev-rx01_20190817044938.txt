@@ -1,0 +1,17 @@
+<SUMMARIES>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Aug 16 15:03:43 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Aug 16 15:16:37 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Aug 16 15:17:40 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Aug 16 15:19:06 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL salmon-dev-rx01</END_JOB_NAME><END_TIME>Fri Aug 16 15:23:40 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><START_TIME>Fri Aug 16 14:53:27 MDT 2019</START_TIME><TARGET_SERVERS>salmon-dev-rx02</TARGET_SERVERS><PCI_VERSION>19.1.0.418</PCI_VERSION><DATABASE_VERSION>19.1.0.418</DATABASE_VERSION><PCI_INSTALL_VERSION>19.1.0.420</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Aug 16 15:25:30 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL salmon-dev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Aug 16 15:34:37 MDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL salmon-dev-rx02</END_JOB_NAME><END_TIME>Fri Aug 16 15:37:30 MDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,18 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><START_TIME>Thu Jan 04 14:38:55 CST 2018</START_TIME><TARGET_SERVERS>orange-yellow-rxs01</TARGET_SERVERS><PCI_VERSION>6.2.3.331</PCI_VERSION><DATABASE_VERSION>6.2.3.329</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.3.331</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 04 14:55:07 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 04 14:58:43 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs01</END_JOB_NAME><END_TIME>Thu Jan 04 15:01:01 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><START_TIME>Thu Jan 04 14:38:56 CST 2018</START_TIME><TARGET_SERVERS>orange-yellow-rxs02</TARGET_SERVERS><PCI_VERSION>6.2.3.331</PCI_VERSION><DATABASE_VERSION>6.2.3.329</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.3.331</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Jan 04 15:15:03 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Jan 04 15:15:06 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs02</END_JOB_NAME><END_TIME>Thu Jan 04 15:15:07 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><START_TIME>Thu Jan 04 14:38:56 CST 2018</START_TIME><TARGET_SERVERS>orange-yellow-rxs03</TARGET_SERVERS><PCI_VERSION>6.2.3.331</PCI_VERSION><DATABASE_VERSION>6.2.3.329</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.3.331</PCI_INSTALL_VERSION><LICENSE_GROUP>HOMEDEPOT</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install JAmes orange-yellow-rxs03</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Jan 04 15:15:36 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install JAmes orange-yellow-rxs03</END_JOB_NAME><END_TIME>Thu Jan 04 15:15:36 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

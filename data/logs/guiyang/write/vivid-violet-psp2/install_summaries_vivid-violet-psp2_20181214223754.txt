@@ -1,0 +1,24 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><START_TIME>Fri Dec 14 15:19:47 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-psp2</TARGET_SERVERS><PCI_VERSION>0</PCI_VERSION><DATABASE_VERSION>0</DATABASE_VERSION><PCI_INSTALL_VERSION>6.0.0.618</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 15:46:53 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 16:37:46 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 17:07:32 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MARTIN vivid-violet-psp2</END_JOB_NAME><END_TIME>Fri Dec 14 17:39:25 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><START_TIME>Fri Dec 14 19:03:24 EST 2018</START_TIME><TARGET_SERVERS>vivid-violet-psp2</TARGET_SERVERS><PCI_VERSION>6.0.0.618</PCI_VERSION><DATABASE_VERSION>6.0.0.618</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.312</PCI_INSTALL_VERSION><LICENSE_GROUP>EXXON </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 19:56:29 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 20:09:28 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 20:16:18 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 20:44:43 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Dec 14 20:54:30 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install MARTIN vivid-violet-psp2</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Dec 14 21:15:40 EST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install MARTIN vivid-violet-psp2</END_JOB_NAME><END_TIME>Fri Dec 14 21:15:42 EST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,46 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><START_TIME>Tue Jan 16 10:39:31 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx03</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.358</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jan 16 11:22:17 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Tue Jan 16 11:22:48 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 11:27:40 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx03</END_JOB_NAME><END_TIME>Tue Jan 16 11:30:33 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><START_TIME>Tue Jan 16 10:39:32 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx06</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.358</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 11:57:49 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx06</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 12:10:59 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx06</END_JOB_NAME><END_TIME>Tue Jan 16 12:13:39 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><START_TIME>Tue Jan 16 10:39:32 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx04</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.358</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 12:31:33 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Jan 16 12:32:01 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx04</END_JOB_NAME><END_TIME>Tue Jan 16 12:32:02 PST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><START_TIME>Tue Jan 16 12:42:52 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx04</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.365</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 12:43:10 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 12:55:17 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx04</END_JOB_NAME><END_TIME>Tue Jan 16 12:57:39 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><START_TIME>Tue Jan 16 12:42:53 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx02</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.365</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 13:16:33 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 13:28:05 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx02</END_JOB_NAME><END_TIME>Tue Jan 16 13:30:26 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx05</JOB_NAME><START_TIME>Tue Jan 16 12:42:54 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx05</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.365</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 13:45:20 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx05</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 13:59:18 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx05</END_JOB_NAME><END_TIME>Tue Jan 16 14:02:00 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell manatee-rx01</JOB_NAME><START_TIME>Tue Jan 16 12:42:54 PST 2018</START_TIME><TARGET_SERVERS>manatee-rx01</TARGET_SERVERS><PCI_VERSION>6.2.5.358</PCI_VERSION><DATABASE_VERSION>6.2.5.365</DATABASE_VERSION><PCI_INSTALL_VERSION>6.2.5.365</PCI_INSTALL_VERSION><LICENSE_GROUP>WELLSFARGO</LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Tue Jan 16 14:21:16 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell manatee-rx01</JOB_NAME><TYPE>ERROR</TYPE><TIME>Tue Jan 16 14:21:56 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell manatee-rx01</END_JOB_NAME><END_TIME>Tue Jan 16 14:21:56 PST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

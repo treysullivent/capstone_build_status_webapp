@@ -1,0 +1,14 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL sonic-silver-rx01</JOB_NAME><START_TIME>Thu Mar 15 18:32:35 CDT 2018</START_TIME><TARGET_SERVERS>sonic-silver-rx01</TARGET_SERVERS><PCI_VERSION>6.3.0.262</PCI_VERSION><DATABASE_VERSION>6.3.0.262</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.668</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL sonic-silver-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 15 19:07:45 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL sonic-silver-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 15 19:21:06 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL sonic-silver-rx01</END_JOB_NAME><END_TIME>Thu Mar 15 19:23:42 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL sonic-silver-rx02</JOB_NAME><START_TIME>Thu Mar 15 18:32:36 CDT 2018</START_TIME><TARGET_SERVERS>sonic-silver-rx02</TARGET_SERVERS><PCI_VERSION>6.3.0.262</PCI_VERSION><DATABASE_VERSION>6.3.0.262</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.0.668</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL sonic-silver-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 15 19:35:22 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL sonic-silver-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Mar 15 19:46:33 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL sonic-silver-rx02</END_JOB_NAME><END_TIME>Thu Mar 15 19:49:14 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

@@ -1,0 +1,16 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install GPTest pacific-blue-08</JOB_NAME><START_TIME>Thu Aug 23 11:19:05 EDT 2018</START_TIME><TARGET_SERVERS>pacific-blue-08</TARGET_SERVERS><PCI_VERSION>18.1.1.61</PCI_VERSION><DATABASE_VERSION>18.1.1.61</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.61</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GPTest pacific-blue-08</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Aug 23 11:19:59 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GPTest pacific-blue-08</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 23 11:34:38 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GPTest pacific-blue-08</JOB_NAME><TYPE>WARNING</TYPE><TIME>Thu Aug 23 11:35:27 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GPTest pacific-blue-08</JOB_NAME><TYPE>INFO</TYPE><TIME>Thu Aug 23 11:36:56 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GPTest pacific-blue-08</END_JOB_NAME><END_TIME>Thu Aug 23 11:36:58 EDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GPTest pacific-blue-09</JOB_NAME><START_TIME>Thu Aug 23 11:19:05 EDT 2018</START_TIME><TARGET_SERVERS>pacific-blue-09</TARGET_SERVERS><PCI_VERSION>18.1.1.61</PCI_VERSION><DATABASE_VERSION>18.1.1.61</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.1.61</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GPTest pacific-blue-09</JOB_NAME><TYPE>ERROR</TYPE><TIME>Thu Aug 23 11:37:00 EDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GPTest pacific-blue-09</END_JOB_NAME><END_TIME>Thu Aug 23 11:37:01 EDT 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+</SUMMARIES>

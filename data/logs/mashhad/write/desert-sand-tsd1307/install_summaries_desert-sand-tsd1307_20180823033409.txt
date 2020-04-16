@@ -1,0 +1,12 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><START_TIME>Wed Aug 22 10:12:29 CDT 2018</START_TIME><TARGET_SERVERS>desert-sand-tsd1307</TARGET_SERVERS><PCI_VERSION>18.1.1.44</PCI_VERSION><DATABASE_VERSION>18.1.1.44</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.1.289</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Aug 22 10:53:41 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Aug 22 10:54:31 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Aug 22 11:00:58 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Aug 22 11:01:41 CDT 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install ROBERTson desert-sand-tsd1307</END_JOB_NAME><END_TIME>Wed Aug 22 11:03:32 CDT 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

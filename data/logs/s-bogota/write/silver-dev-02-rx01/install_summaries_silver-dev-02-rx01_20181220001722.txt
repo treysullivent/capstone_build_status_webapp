@@ -1,0 +1,34 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><START_TIME>Wed Dec 19 14:26:04 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx01</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</END_JOB_NAME><END_TIME>Wed Dec 19 14:28:47 CST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><START_TIME>Wed Dec 19 14:42:58 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx01</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Dec 19 14:50:48 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Dec 19 14:56:53 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</END_JOB_NAME><END_TIME>Wed Dec 19 14:56:55 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><START_TIME>Wed Dec 19 15:05:18 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx01</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Dec 19 15:13:13 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Dec 19 15:19:07 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx01</END_JOB_NAME><END_TIME>Wed Dec 19 15:19:09 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx03</JOB_NAME><START_TIME>Wed Dec 19 15:05:19 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx03</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx03</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Dec 19 15:27:47 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Dec 19 15:31:53 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx03</END_JOB_NAME><END_TIME>Wed Dec 19 15:35:25 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx04</JOB_NAME><START_TIME>Wed Dec 19 15:05:20 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx04</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx04</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Dec 19 15:44:44 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Dec 19 15:49:15 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx04</END_JOB_NAME><END_TIME>Wed Dec 19 15:52:59 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install RUSSELL silver-dev-02-rx02</JOB_NAME><START_TIME>Wed Dec 19 15:05:21 CST 2018</START_TIME><TARGET_SERVERS>silver-dev-02-rx02</TARGET_SERVERS><PCI_VERSION>18.2.0.295</PCI_VERSION><DATABASE_VERSION>18.2.0.295</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.0.295</PCI_INSTALL_VERSION><LICENSE_GROUP></LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx02</JOB_NAME><TYPE>WARNING</TYPE><TIME>Wed Dec 19 16:02:11 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install RUSSELL silver-dev-02-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Wed Dec 19 16:06:30 CST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install RUSSELL silver-dev-02-rx02</END_JOB_NAME><END_TIME>Wed Dec 19 16:10:01 CST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

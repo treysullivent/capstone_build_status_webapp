@@ -1,0 +1,26 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><START_TIME>Fri Mar 22 14:57:00 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8989</TARGET_SERVERS><PCI_VERSION>18.2.5.471</PCI_VERSION><DATABASE_VERSION>18.1.5.296</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>Costco </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:16:56 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:17:44 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:17:59 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:18:25 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:24:44 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>WARNING</TYPE><TIME>Fri Mar 22 16:24:54 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 22 16:38:19 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GONZALEZ gold-fusion-s-8989</END_JOB_NAME><END_TIME>Fri Mar 22 16:43:45 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</JOB_NAME><START_TIME>Fri Mar 22 14:57:00 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8766</TARGET_SERVERS><PCI_VERSION>18.2.5.471</PCI_VERSION><DATABASE_VERSION>18.1.5.296</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>Costco </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Mar 22 16:45:02 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</END_JOB_NAME><END_TIME>Fri Mar 22 16:45:02 CDT 2019</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</JOB_NAME><START_TIME>Fri Mar 22 16:48:19 CDT 2019</START_TIME><TARGET_SERVERS>gold-fusion-s-8766</TARGET_SERVERS><PCI_VERSION>18.2.5.471</PCI_VERSION><DATABASE_VERSION>18.2.5.471</DATABASE_VERSION><PCI_INSTALL_VERSION>18.2.5.471</PCI_INSTALL_VERSION><LICENSE_GROUP>Costco </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Mar 22 17:08:55 CDT 2019</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install GONZALEZ gold-fusion-s-8766</END_JOB_NAME><END_TIME>Fri Mar 22 17:08:56 CDT 2019</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>

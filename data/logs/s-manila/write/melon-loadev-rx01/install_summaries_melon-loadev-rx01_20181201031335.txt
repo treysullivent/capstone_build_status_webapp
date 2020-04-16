@@ -1,0 +1,33 @@
+<SUMMARIES>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx02</JOB_NAME><START_TIME>Fri Nov 30 07:28:14 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx02</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.313</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx02</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Nov 30 07:28:18 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx02</END_JOB_NAME><END_TIME>Fri Nov 30 07:28:18 PST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Extract russell</JOB_NAME><START_TIME>Fri Nov 30 08:29:08 PST 2018</START_TIME><TARGET_SERVERS>null</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.313</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx02</JOB_NAME><START_TIME>Fri Nov 30 08:45:04 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx02</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.313</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 08:50:29 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx02</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 09:04:39 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx02</END_JOB_NAME><END_TIME>Fri Nov 30 09:08:08 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx04</JOB_NAME><START_TIME>Fri Nov 30 08:45:05 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx04</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.313</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx04</JOB_NAME><TYPE>ERROR</TYPE><TIME>Fri Nov 30 09:08:09 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx04</END_JOB_NAME><END_TIME>Fri Nov 30 09:08:09 PST 2018</END_TIME><STATUS>FAILED</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx04</JOB_NAME><START_TIME>Fri Nov 30 11:17:28 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx04</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.335</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx04</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 11:30:13 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx04</END_JOB_NAME><END_TIME>Fri Nov 30 11:30:16 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx01</JOB_NAME><START_TIME>Fri Nov 30 11:17:28 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx01</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.335</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 11:31:06 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx01</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 11:44:29 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx01</END_JOB_NAME><END_TIME>Fri Nov 30 11:47:40 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+<JOB_START><JOB_NAME>GM Install russell melon-loadev-rx03</JOB_NAME><START_TIME>Fri Nov 30 11:17:29 PST 2018</START_TIME><TARGET_SERVERS>melon-loadev-rx03</TARGET_SERVERS><PCI_VERSION>18.1.5.313</PCI_VERSION><DATABASE_VERSION>18.1.5.335</DATABASE_VERSION><PCI_INSTALL_VERSION>18.1.5.335</PCI_INSTALL_VERSION><LICENSE_GROUP>JPMORGAN </LICENSE_GROUP></JOB_START>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 11:48:23 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<NOTIFICATION><JOB_NAME>GM Install russell melon-loadev-rx03</JOB_NAME><TYPE>INFO</TYPE><TIME>Fri Nov 30 12:02:22 PST 2018</TIME><NOTIFICATION_MESSAGE>Random message... it could have > or >= or <= or or < or <html> tags like <B></BR> etc. or stack trace with line feeds 
+ and or carriage returns , so parse carefully!</NOTIFICATION_MESSAGE></NOTIFICATION>
+<JOB_END><END_JOB_NAME>GM Install russell melon-loadev-rx03</END_JOB_NAME><END_TIME>Fri Nov 30 12:05:42 PST 2018</END_TIME><STATUS>SUCCESS</STATUS></JOB_END>
+</SUMMARIES>
