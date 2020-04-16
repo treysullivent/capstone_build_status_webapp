@@ -9,10 +9,12 @@ sudo mysql -u root -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_nativ
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
 sudo apt-get install libmysql-java
-# add to ./bashrc also
 echo 'export CLASSPATH=$CLASSPATH:/usr/share/java/mysql-connector-java.jar' >> ~/.bashrc
 source ~/.bashrc
-#mkdir webroot
-#ls -s webroot /var/www/html/
-#sudo mv webroot_static/* webroot/
-#rm -r webroot_static/*
+
+ln -s /var/www/html/ webroot 
+sudo mv webroot_static/* webroot/
+rm -r webroot_static/*
+
+#create database
+sudo mysql --defaults-extra-file=database/credentials/root.cnf < database/sql/create_db.sql
