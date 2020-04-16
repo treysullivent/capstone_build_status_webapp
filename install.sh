@@ -10,7 +10,9 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
 sudo apt-get install libmysql-java
 echo 'export CLASSPATH=$CLASSPATH:/usr/share/java/mysql-connector-java.jar' >> ~/.bashrc
-source ~/.bashrc
+
+#this must be manually typed
+#source ~/.bashrc
 
 ln -s /var/www/html/ webroot 
 sudo mv webroot_static/* webroot/
